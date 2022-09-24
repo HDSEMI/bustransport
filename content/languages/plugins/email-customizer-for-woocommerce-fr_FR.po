@@ -1,0 +1,44 @@
+# Translation of Plugins - Email Customizer for WooCommerce - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Email Customizer for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-08 17:29:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Email Customizer for WooCommerce - Development (trunk)\n"
+
+#: classes/class-wecmf-settings.php:155
+msgid "Settings"
+msgstr "Réglages"
+
+#: classes/class-wecmf-settings.php:150
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: classes/class-wecmf-settings.php:141
+msgid "Templates"
+msgstr "Modèles"
+
+#: classes/class-wecmf-settings.php:140
+msgid "Email Customizer"
+msgstr "Email Customizer"
+
+#. Author URI of the plugin
+msgid "https://www.themehigh.com"
+msgstr "https://www.themehigh.com"
+
+#. Author of the plugin
+msgid "ThemeHigh"
+msgstr "ThemeHigh"
+
+#. Plugin URI of the plugin
+msgid "https://www.themehigh.com/product/woocommerce-email-customizer"
+msgstr "https://www.themehigh.com/product/woocommerce-email-customizer"
+
+#. Plugin Name of the plugin
+msgid "Email Customizer for WooCommerce"
+msgstr "Email Customizer for WooCommerce"

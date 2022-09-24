@@ -1,0 +1,696 @@
+{
+    "version": "0.4",
+    "title": "Team-block-2",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-team",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "7b6a879d",
+            "settings": {
+                "gap": "no",
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "15",
+                    "bottom": "100",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "_title": "Team-block-2"
+            },
+            "elements": [
+                {
+                    "id": "628caf32",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "d78392",
+                            "settings": {
+                                "gap": "no",
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "298dd8ac",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 65,
+                                        "_inline_size_tablet": 100
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "718907b8",
+                                            "settings": {
+                                                "title": "Expert team members",
+                                                "align_tablet": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6b78a55e",
+                                            "settings": {
+                                                "editor": "<p>Facilisis impedit tenetur pariatur accumsan tincidunt vero, occaecat, hendrerit tristique, erat laborum consectetur suspendisse odio facilisis eu cursus sapien cras.<\/p>",
+                                                "align_tablet": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "1ccd3e3",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 35,
+                                        "_inline_size_tablet": 100,
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6e63ecf2",
+                                            "settings": {
+                                                "text": "View all team",
+                                                "align": "right",
+                                                "align_tablet": "center",
+                                                "background_color": "#02010100",
+                                                "hover_color": "#FFFFFF",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "__globals__": {
+                                                    "button_text_color": "globals\/colors?id=primary",
+                                                    "button_background_hover_color": "globals\/colors?id=fc28385",
+                                                    "button_hover_border_color": "globals\/colors?id=fc28385"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "14df117",
+                            "settings": {
+                                "gap": "no",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "margin_tablet": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "12e747ab",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 100,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "30",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "50",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "615b8869",
+                                            "settings": {
+                                                "gap": "no",
+                                                "structure": "20"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "7a9aacf7",
+                                                    "settings": {
+                                                        "_column_size": 50,
+                                                        "_inline_size": 45,
+                                                        "content_position": "center",
+                                                        "space_between_widgets": 0
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "11fa6fe9",
+                                                            "settings": {
+                                                                "image": {
+                                                                    "id": 1822,
+                                                                    "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-img08.jpg",
+                                                                    "alt": "",
+                                                                    "source": "library"
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "-25",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "image",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "75aecd0b",
+                                                            "settings": {
+                                                                "text": "hire now!",
+                                                                "align": "center",
+                                                                "typography_font_family": "Montserrat",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "600",
+                                                                "typography_text_transform": "uppercase",
+                                                                "typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.1,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "typography_typography": ""
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "button",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                },
+                                                {
+                                                    "id": "2810ee8a",
+                                                    "settings": {
+                                                        "_column_size": 50,
+                                                        "_inline_size": 55,
+                                                        "space_between_widgets": 10,
+                                                        "box_shadow_box_shadow_type": "yes",
+                                                        "box_shadow_box_shadow": {
+                                                            "horizontal": 0,
+                                                            "vertical": 0,
+                                                            "blur": 13,
+                                                            "spread": -4,
+                                                            "color": "rgba(0, 0, 0, 0.35)"
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "30",
+                                                            "right": "30",
+                                                            "bottom": "30",
+                                                            "left": "30",
+                                                            "isLinked": true
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "10656ae3",
+                                                            "settings": {
+                                                                "title": "Er. James scott",
+                                                                "header_size": "h4",
+                                                                "title_color": "#FD5D14",
+                                                                "typography_font_family": "Montserrat",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 18,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "700",
+                                                                "typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.3,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=primary",
+                                                                    "typography_typography": ""
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "5cd09c85",
+                                                            "settings": {
+                                                                "title": "Head director",
+                                                                "header_size": "h6",
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "10",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=text"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "51a59c43",
+                                                            "settings": {
+                                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamco<\/p>"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "text-editor",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "799da845",
+                                                            "settings": {
+                                                                "tabs": [
+                                                                    {
+                                                                        "tab_title": "Speciality",
+                                                                        "tab_content": "<p>* Supervisor of building, University of Texas, USA (1990)<\/p><p>* Engineering Orientation Program, St. Louis University (St. Louis, Missouri 1996)<\/p>",
+                                                                        "_id": "f0f6715"
+                                                                    },
+                                                                    {
+                                                                        "tab_title": "Education",
+                                                                        "tab_content": "<p>* Topper in civil engineering, Oxford university(2015)<\/p><p>* P.H.D in Engineering, St. Louis University ( 1996)<\/p>",
+                                                                        "_id": "b1a19b4"
+                                                                    },
+                                                                    {
+                                                                        "tab_title": "Experience",
+                                                                        "tab_content": "<p>* Supervisor of building, University of Texas, USA (1990)<\/p><p>* Engineering Orientation Program, St. Louis University (St. Louis, Missouri 1996)<\/p>",
+                                                                        "_id": "7d33784"
+                                                                    }
+                                                                ],
+                                                                "border_color": "#FD5D141F",
+                                                                "title_color": "#030F27",
+                                                                "tab_active_color": "#FD5D14",
+                                                                "title_typography_typography": "custom",
+                                                                "title_typography_font_family": "Montserrat",
+                                                                "title_typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "title_typography_font_weight": "600",
+                                                                "title_typography_text_transform": "uppercase",
+                                                                "title_typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.1,
+                                                                    "sizes": []
+                                                                },
+                                                                "title_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "15",
+                                                                    "right": "0",
+                                                                    "bottom": "15",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "icon_align": "right",
+                                                                "content_background_color": "#FAFAFA",
+                                                                "content_typography_typography": "custom",
+                                                                "content_typography_font_family": "Poppins",
+                                                                "content_typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 13,
+                                                                    "sizes": []
+                                                                },
+                                                                "content_typography_font_weight": "normal",
+                                                                "content_typography_text_transform": "none",
+                                                                "content_typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.1,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=secondary",
+                                                                    "tab_active_color": "globals\/colors?id=primary",
+                                                                    "title_typography_typography": "globals\/typography?id=accent",
+                                                                    "content_typography_typography": "globals\/typography?id=61eed76",
+                                                                    "border_color": ""
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "toggle",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "124d35a2",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 100,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "30",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "72a05347",
+                                            "settings": {
+                                                "gap": "no",
+                                                "structure": "20"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "2de9bdbd",
+                                                    "settings": {
+                                                        "_column_size": 50,
+                                                        "_inline_size": 45,
+                                                        "content_position": "center",
+                                                        "space_between_widgets": 0
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "2f5b9dac",
+                                                            "settings": {
+                                                                "image": {
+                                                                    "id": 1821,
+                                                                    "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-img07.jpg",
+                                                                    "alt": "",
+                                                                    "source": "library"
+                                                                },
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "-25",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "image",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "67c3833f",
+                                                            "settings": {
+                                                                "text": "hire now!",
+                                                                "align": "center",
+                                                                "typography_font_family": "Montserrat",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "600",
+                                                                "typography_text_transform": "uppercase",
+                                                                "typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.1,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "typography_typography": ""
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "button",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                },
+                                                {
+                                                    "id": "5646fafa",
+                                                    "settings": {
+                                                        "_column_size": 50,
+                                                        "_inline_size": 55,
+                                                        "space_between_widgets": 10,
+                                                        "box_shadow_box_shadow_type": "yes",
+                                                        "box_shadow_box_shadow": {
+                                                            "horizontal": 0,
+                                                            "vertical": 0,
+                                                            "blur": 13,
+                                                            "spread": -4,
+                                                            "color": "rgba(0, 0, 0, 0.35)"
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "30",
+                                                            "right": "30",
+                                                            "bottom": "30",
+                                                            "left": "30",
+                                                            "isLinked": true
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "6d70ff5b",
+                                                            "settings": {
+                                                                "title": "Er. William housten",
+                                                                "header_size": "h4",
+                                                                "title_color": "#FD5D14",
+                                                                "typography_font_family": "Montserrat",
+                                                                "typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 18,
+                                                                    "sizes": []
+                                                                },
+                                                                "typography_font_weight": "700",
+                                                                "typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.3,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=primary",
+                                                                    "typography_typography": ""
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "697b02de",
+                                                            "settings": {
+                                                                "title": "Civil engineer",
+                                                                "header_size": "h6",
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "10",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=text"
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "heading",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "57e5041d",
+                                                            "settings": {
+                                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamco<\/p>"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "text-editor",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "71d14bc8",
+                                                            "settings": {
+                                                                "tabs": [
+                                                                    {
+                                                                        "tab_title": "Speciality",
+                                                                        "tab_content": "<p>* Supervisor of building, University of Texas, USA (1990)<\/p><p>* Engineering Orientation Program, St. Louis University (St. Louis, Missouri 1996)<\/p>",
+                                                                        "_id": "f0f6715"
+                                                                    },
+                                                                    {
+                                                                        "tab_title": "Education",
+                                                                        "tab_content": "<p>* Topper in civil engineering, Oxford university(2015)<\/p><p>* P.H.D in Engineering, St. Louis University ( 1996)<\/p>",
+                                                                        "_id": "b1a19b4"
+                                                                    },
+                                                                    {
+                                                                        "tab_title": "Experience",
+                                                                        "tab_content": "<p>* Supervisor of building, University of Texas, USA (1990)<\/p><p>* Engineering Orientation Program, St. Louis University (St. Louis, Missouri 1996)<\/p>",
+                                                                        "_id": "7d33784"
+                                                                    }
+                                                                ],
+                                                                "border_color": "#FD5D141F",
+                                                                "title_color": "#030F27",
+                                                                "tab_active_color": "#FD5D14",
+                                                                "title_typography_typography": "custom",
+                                                                "title_typography_font_family": "Montserrat",
+                                                                "title_typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 15,
+                                                                    "sizes": []
+                                                                },
+                                                                "title_typography_font_weight": "600",
+                                                                "title_typography_text_transform": "uppercase",
+                                                                "title_typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.1,
+                                                                    "sizes": []
+                                                                },
+                                                                "title_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "15",
+                                                                    "right": "0",
+                                                                    "bottom": "15",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "icon_align": "right",
+                                                                "content_background_color": "#FAFAFA",
+                                                                "content_typography_typography": "custom",
+                                                                "content_typography_font_family": "Poppins",
+                                                                "content_typography_font_size": {
+                                                                    "unit": "px",
+                                                                    "size": 13,
+                                                                    "sizes": []
+                                                                },
+                                                                "content_typography_font_weight": "normal",
+                                                                "content_typography_text_transform": "none",
+                                                                "content_typography_line_height": {
+                                                                    "unit": "em",
+                                                                    "size": 1.1,
+                                                                    "sizes": []
+                                                                },
+                                                                "__globals__": {
+                                                                    "title_color": "globals\/colors?id=secondary",
+                                                                    "tab_active_color": "globals\/colors?id=primary",
+                                                                    "title_typography_typography": "globals\/typography?id=accent",
+                                                                    "content_typography_typography": "globals\/typography?id=61eed76",
+                                                                    "border_color": ""
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "toggle",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_canvas"
+    }
+}

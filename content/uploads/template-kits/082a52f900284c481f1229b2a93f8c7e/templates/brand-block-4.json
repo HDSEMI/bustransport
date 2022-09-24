@@ -1,0 +1,184 @@
+{
+    "version": "0.4",
+    "title": "Brand-block-4",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-clients",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "55352335",
+            "settings": {
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img31.png",
+                    "id": 332,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "bottom right",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.3,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "15",
+                    "bottom": "60",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=daacfc3"
+                },
+                "gap": "no",
+                "_title": "clients",
+                "margin": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": 0,
+                    "bottom": "100",
+                    "left": 0,
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "4d8ab36a",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "24cf2a41",
+                            "settings": {
+                                "title": "Trusted by 200+ Forward Thinking Companies",
+                                "header_size": "h3",
+                                "align": "center",
+                                "typography_font_family": "Montserrat",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "700",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.3,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "200",
+                                    "bottom": "0",
+                                    "left": "200",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": ""
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "390c21f1",
+                            "settings": {
+                                "width": {
+                                    "unit": "%",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "text": "Divider",
+                                "color": "#FD5D1445",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "49243ddb",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 375,
+                                        "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img15-1.png"
+                                    },
+                                    {
+                                        "id": 374,
+                                        "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img14-1.png"
+                                    },
+                                    {
+                                        "id": 372,
+                                        "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img12-1.png"
+                                    },
+                                    {
+                                        "id": 373,
+                                        "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img13-1.png"
+                                    },
+                                    {
+                                        "id": 371,
+                                        "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img11-1.png"
+                                    }
+                                ],
+                                "slides_to_show": "5",
+                                "slides_to_scroll": "1",
+                                "navigation": "none",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "slides_to_show_tablet": "4",
+                                "slides_to_show_mobile": "2"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_canvas"
+    }
+}

@@ -1,0 +1,394 @@
+# Translation of Plugins - Flexible Elementor Panel - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Flexible Elementor Panel - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-16 20:15:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Flexible Elementor Panel - Stable (latest release)\n"
+
+#: inc/settings/controls.php:121
+msgid "Force RTL Mode"
+msgstr "Forcer le mode RTL"
+
+#: inc/settings/controls.php:52
+msgid "You can set the option to closed the first tabs accordion in frontend there:"
+msgstr "Vous pouvez définir ici l’option de fermer le premier onglet des accordéons sur votre site :"
+
+#: admin/settings/tabs/divers.php:29
+msgid "Check to close the first tab on all Elementor accordions"
+msgstr "Cocher pour fermer le premier onglet sur tous les accordéons Elementor"
+
+#: admin/settings/tabs/how-to-configure.php:26
+msgid "All options are enabled by default. Take a look!"
+msgstr "Toutes les options sont activées par défaut. Jetez un œil !"
+
+#: admin/settings/tabs/how-to-configure.php:25
+msgid "The FEP settings can be found in Elementor. Open Elementor and you will find the FEP settings in the User Preferences."
+msgstr "Les réglages FEP peuvent être trouvés dans Elementor. Ouvrez Elementor et vous trouverez les réglages FEP dans les préférences du compte."
+
+#: admin/settings/tabs/debug.php:56
+msgid "FEP saves these options with the native saving of the Elementor options. Delete FEP options with this button. <red>Please backup your database before deletion of the FEP options.</red>"
+msgstr "FEP enregistre ces options avec l’enregistrement natif des options d’Elementor. Supprimer les options FEP avec ce bouton. <red>Veuillez sauvegarder votre base de données avant la suppression des options FEP.</red>"
+
+#: admin/settings/tabs/debug.php:55
+msgid "DELETE THE FEP OPTIONS FROM THE DATABASE."
+msgstr "Supprimer les options FEP de la base de données."
+
+#: admin/settings/tabs/debug.php:47
+msgid "FEP uses the local storage of your navigator to save the position of the Elementor editor panel. Reset to default with this button."
+msgstr "FEP utilise le stockage local de votre navigateur pour enregistrer la position du panneau de l’éditeur Elementor. Réinitialisez par défaut avec ce bouton."
+
+#: admin/settings/tabs/debug.php:46
+msgid "RESET THE POSITION/SIZE OF THE ELEMENTOR EDITOR PANEL."
+msgstr "Réinitialisez la position/taille du panneau de l’éditeur Elementor."
+
+#: admin/settings/tabs/debug.php:45
+msgid "The position/size of the Elementor editor panel has been reset!"
+msgstr "La position/taille du panneau de l’éditeur Elementor a été réinitialisée !"
+
+#: admin/settings/tabs/debug.php:37
+msgid "CHECK THE OPTIONS USED BY FEP FROM THE DATABASE AND LOCAL STORAGE"
+msgstr "Vérifiez les options utilisées par FEP depuis la base de données et le stockage local"
+
+#: admin/settings/tabs/debug.php:34
+msgid "Check the user preferences"
+msgstr "Vérifier les préférences du compte"
+
+#: admin/settings/tabs/informations.php:31
+msgid "Give us a positive rating directly in the Wordpress plugin repository. Thanks!"
+msgstr "Donnez-nous une note positive directement sur le dépôt des extensions WordPress. Merci !"
+
+#: admin/settings/tabs/informations.php:30
+msgid "Please give us 5 minutes of your time to support us."
+msgstr "Veuillez nous accorder 5 minutes de votre temps pour nous soutenir."
+
+#: admin/settings/tabs/informations.php:29
+msgid "Thanks for using our plugin. It's free for all Wordpress and Elementor users."
+msgstr "Merci d’utiliser notre extension. Elle est gratuite pour tous les utilisateurs et utilisatrices de WordPress et Elementor."
+
+#: flexible-elementor-panel.php:394
+msgid "FEP settings are correctly updated in the \"User Preferences\" of the Elementor editor!"
+msgstr "Les réglages FEP sont correctement mis à jour dans les « Préférences de compte » de l’éditeur Elementor !"
+
+#: flexible-elementor-panel.php:378
+msgid "Great, you are using FEP 2.2+ and Elementor 3.0+, your FEP settings are now available in the \"User Preferences\" of the Elementor editor!"
+msgstr "Génial, vous utilisez FEP 2.2+ et Elementor 3.0+, vos réglages FEP sont maintenant disponibles dans les « Préférences de compte » de l’éditeur Elementor !"
+
+#: admin/settings.php:188
+msgid "Do you confirm that action?"
+msgstr "Confirmez-vous cette action ?"
+
+#: admin/settings.php:80
+msgid "How to configure"
+msgstr "Comment configurer"
+
+#: admin/settings.php:94
+msgid "Debug"
+msgstr "Débogage"
+
+#: admin/settings/tabs/debug.php:153
+msgid "Note: These value save automatically from your navigator after move and resize the editor panel"
+msgstr "Remarque : ces valeurs s’enregistrent automatiquement depuis votre navigateur après le déplacement et redimensionnement du panneau de l’éditeur"
+
+#: admin/settings/tabs/debug.php:152
+msgid "Value of \"Move Panel\""
+msgstr "Valeur pour « Déplacer le panneau »"
+
+#: admin/settings/tabs/debug.php:151
+msgid "Position of \"Right Panel\""
+msgstr "Position du « panneau droit »"
+
+#: admin/settings/tabs/debug.php:150
+msgid "Position of \"Left Panel\""
+msgstr "Position du « panneau gauche »"
+
+#: admin/settings/tabs/debug.php:149
+msgid "Position of \"Top Panel\""
+msgstr "Position du « panneau supérieur »"
+
+#: admin/settings/tabs/debug.php:148
+msgid "Size of \"Height Panel\""
+msgstr "Taille de la « hauteur du panneau »"
+
+#: admin/settings/tabs/debug.php:147
+msgid "Size of \"Width Panel\""
+msgstr "Taille de la « largeur du panneau »"
+
+#: admin/settings/tabs/debug.php:133 admin/settings/tabs/debug.php:143
+msgid "Note: all settings saved, will be print above. If the settings not appear, it means it is configured by default"
+msgstr "Remarque : tous les réglages enregistrés seront imprimés ci-dessus. Si les réglages n’apparaissent pas, cela signifie qu’ils sont configurés par défaut"
+
+#: admin/settings/tabs/debug.php:106 admin/settings/tabs/debug.php:111
+#: admin/settings/tabs/debug.php:128
+msgid "with the value"
+msgstr "avec la valeur"
+
+#: admin/settings/tabs/debug.php:76 admin/settings/tabs/debug.php:77
+#: admin/settings/tabs/debug.php:78 admin/settings/tabs/debug.php:79
+#: admin/settings/tabs/debug.php:80 admin/settings/tabs/debug.php:81
+msgid "no value"
+msgstr "aucune valeur"
+
+#: admin/settings/tabs/debug.php:54
+msgid "The FEP options have been removed from the database!"
+msgstr "Les options FEP ont été supprimées de la base de données !"
+
+#: admin/settings/tabs/debug.php:52
+msgid "Reset FEP Options"
+msgstr "Réinitialiser les options FEP"
+
+#: admin/api.settings.php:129
+msgid "Button"
+msgstr "Bouton"
+
+#: inc/settings/controls.php:49 inc/settings/model_deprecate.php:50
+msgid "The pro version is currently development,<br> get more information now on:"
+msgstr "La version Pro est en cours de développement,<br> obtenez plus d’informations sur :"
+
+#. Author URI of the plugin
+msgid "https://webmat.pro"
+msgstr "https://webmat.pro"
+
+#. Author of the plugin
+msgid "WebMat"
+msgstr "WebMat"
+
+#: inc/settings/controls.php:216 inc/settings/model_deprecate.php:185
+msgid "Adds an alternative indicator for responsive hidden elements by changing their handle colors."
+msgstr "Ajoute un indicateur alternatif pour les éléments responsive masqués en modifiant les couleurs de leur poignée."
+
+#: inc/settings/controls.php:215 inc/settings/model_deprecate.php:184
+msgid "Alternative Responsive Indicator"
+msgstr "Indicateur responsive alternatif"
+
+#: inc/settings/controls.php:206 inc/settings/model_deprecate.php:175
+msgid "Disable Responsive Overlays"
+msgstr "Désactiver les superpositions responsive"
+
+#: inc/settings/controls.php:198 inc/settings/model_deprecate.php:167
+msgid "Allow editing of elements inside responsive hidden Sections or Inner Sections without having to use the Navigator."
+msgstr "Permet de modifier des éléments dans des sections masquées ou des sections internes sans avoir à utiliser le navigateur."
+
+#: inc/settings/controls.php:189 inc/settings/model_deprecate.php:158
+msgid "Completely hides elements that are set to hide in responsive modes."
+msgstr "Masque complètement les éléments définis à masquer dans les modes responsive."
+
+#: inc/settings/controls.php:188 inc/settings/model_deprecate.php:157
+msgid "Hide Responsive Elements"
+msgstr "Masquer les éléments responsive"
+
+#: inc/settings/controls.php:243 inc/settings/model_deprecate.php:208
+msgid "Tools & Informations"
+msgstr "Outils et informations"
+
+#: inc/settings/controls.php:180 inc/settings/model_deprecate.php:149
+msgid "Responsive options"
+msgstr "Options responsive"
+
+#: inc/settings/controls.php:100 inc/settings/model_deprecate.php:93
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/settings/controls.php:229 inc/settings/model_deprecate.php:198
+msgid "First tab closed (only in editor)"
+msgstr "Premier onglet fermé (uniquement dans l’éditeur)"
+
+#: inc/settings/controls.php:163 inc/settings/model_deprecate.php:132
+msgid "List Page/Post"
+msgstr "Liste Page/Article"
+
+#: inc/settings/controls.php:162 inc/settings/model_deprecate.php:131
+msgid "Edition"
+msgstr "Édition"
+
+#: inc/settings/controls.php:161 inc/settings/model_deprecate.php:130
+msgid "View"
+msgstr "Voir"
+
+#: admin/settings.php:125
+msgid "Makes the Elementor editor panel flexible, draggable, resizable, folding and more opportunities."
+msgstr "Rend le panneau de l’éditeur d’Elementor flexible, déplaçable, redimensionnable, réductible et bien d’autres fonctions."
+
+#: inc/settings/controls.php:47 inc/settings/model_deprecate.php:48
+msgid "Reset Panel Position/Size"
+msgstr "Réinitialiser la position/taille du panneau"
+
+#: admin/settings.php:87
+msgid "Divers"
+msgstr "Divers"
+
+#: admin/settings.php:73
+msgid "Informations"
+msgstr "Informations"
+
+#: admin/settings/tabs/debug.php:43
+msgid "Reset Editor Panel"
+msgstr "Réinitialiser le panneau de l’éditeur"
+
+#: admin/settings.php:144
+msgid "Your settings have been saved."
+msgstr "Vos réglages ont été enregistrés."
+
+#: admin/settings/tabs/informations.php:32
+msgid "Don't forget, we are open to all helpful suggestions on our <a href=\"https://wordpress.org/support/plugin/flexible-elementor-panel/\" target=\"_blank\">support forum.</a>"
+msgstr "N’oubliez pas que nous sommes ouverts à toute demande sur notre <a href=\"https://wordpress.org/support/plugin/flexible-elementor-panel/\" target=\"_blank\">forum de support.</a>"
+
+#: admin/settings/tabs/informations.php:31
+msgid "https://wordpress.org/support/plugin/flexible-elementor-panel/reviews/?filter=5/#new-post"
+msgstr "https://wordpress.org/support/plugin/flexible-elementor-panel/reviews/?filter=5/#new-post"
+
+#: admin/api.settings.php:401
+msgid "Choose File"
+msgstr "Choisir un fichier"
+
+#: flexible-elementor-panel.php:544
+msgid "Exit"
+msgstr "Quitter"
+
+#: flexible-elementor-panel.php:362
+msgid "go to the information page for understand how to configure it"
+msgstr "aller sur la page d’information pour comprendre comment le configurer"
+
+#: flexible-elementor-panel.php:360
+msgid "Thanks you to use our plugin %1$s, %2$s"
+msgstr "Merci d’utiliser notre extension %1$s, %2$s"
+
+#: inc/settings/controls.php:77 inc/settings/model_deprecate.php:70
+msgid "This reduce the size of widgets in the editor and styling them"
+msgstr "Pour réduire la taille des widgets dans l’éditeur et les styliser"
+
+#: flexible-elementor-panel.php:336
+msgid "PHP"
+msgstr "PHP"
+
+#: flexible-elementor-panel.php:310 flexible-elementor-panel.php:334
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "« %1$s » nécessite « %2$s » version %3$s ou supérieure."
+
+#: inc/settings/controls.php:99 inc/settings/model_deprecate.php:92
+msgid "Dark Orange"
+msgstr "Orange sombre"
+
+#: inc/settings/controls.php:98 inc/settings/model_deprecate.php:91
+msgid "Dark Pink"
+msgstr "Rose sombre"
+
+#: inc/settings/controls.php:85 inc/settings/model_deprecate.php:78
+msgid "Minimize all categories with right click"
+msgstr "Réduire toutes les catégories avec le clic droit"
+
+#: inc/settings/controls.php:68 inc/settings/model_deprecate.php:61
+msgid "hold down the left click on title of panel for move it (put it in the corner left and click on the title for back to origin style)"
+msgstr "maintenez enfoncé le clic gauche sur le titre du panneau pour le déplacer (placez-le dans le coin à gauche et cliquez sur le titre pour revenir à la position d’origine)"
+
+#: flexible-elementor-panel.php:289 flexible-elementor-panel.php:312
+msgid "Elementor"
+msgstr "Elementor"
+
+#: flexible-elementor-panel.php:287
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr "« %1$s » nécessite que « %2$s » soit installé et activé."
+
+#: inc/settings/controls.php:147 inc/settings/model_deprecate.php:116
+msgid "Exit button options"
+msgstr "Options du bouton quitter"
+
+#: inc/settings/controls.php:76 inc/settings/model_deprecate.php:69
+msgid "Use FLEX GRID for widgets"
+msgstr "Utiliser FLEX GRID pour les widgets"
+
+#: inc/settings/controls.php:226 inc/settings/model_deprecate.php:195
+msgid "Accordion widget options"
+msgstr "Options du widget « Accordéon »"
+
+#: inc/settings/controls.php:165 inc/settings/model_deprecate.php:134
+msgid "Elementor library"
+msgstr "Bibliothèque Elementor"
+
+#: inc/settings/controls.php:86 inc/settings/model_deprecate.php:79
+msgid "click the right mouse button on the panel to collapse all categories of widgets"
+msgstr "cliquez avec le bouton droit de la souris sur le panneau pour réduire toutes les catégories de widgets"
+
+#: inc/settings/controls.php:67 inc/settings/model_deprecate.php:60
+msgid "Draggable panel"
+msgstr "Panneau déplaçable"
+
+#: inc/settings/controls.php:64 inc/settings/model_deprecate.php:57
+msgid "Panel settings"
+msgstr "Réglages du panneau"
+
+#: inc/settings/controls.php:71 inc/settings/controls.php:80
+#: inc/settings/controls.php:89 inc/settings/controls.php:108
+#: inc/settings/controls.php:116 inc/settings/controls.php:125
+#: inc/settings/controls.php:153 inc/settings/controls.php:173
+#: inc/settings/controls.php:192 inc/settings/controls.php:201
+#: inc/settings/controls.php:210 inc/settings/controls.php:219
+#: inc/settings/controls.php:232 inc/settings/model_deprecate.php:64
+#: inc/settings/model_deprecate.php:73 inc/settings/model_deprecate.php:82
+#: inc/settings/model_deprecate.php:101 inc/settings/model_deprecate.php:109
+#: inc/settings/model_deprecate.php:122 inc/settings/model_deprecate.php:142
+#: inc/settings/model_deprecate.php:161 inc/settings/model_deprecate.php:170
+#: inc/settings/model_deprecate.php:179 inc/settings/model_deprecate.php:188
+#: inc/settings/model_deprecate.php:201
+msgid "Off"
+msgstr "Inactif"
+
+#: inc/settings/controls.php:70 inc/settings/controls.php:79
+#: inc/settings/controls.php:88 inc/settings/controls.php:107
+#: inc/settings/controls.php:115 inc/settings/controls.php:124
+#: inc/settings/controls.php:152 inc/settings/controls.php:172
+#: inc/settings/controls.php:191 inc/settings/controls.php:200
+#: inc/settings/controls.php:209 inc/settings/controls.php:218
+#: inc/settings/controls.php:231 inc/settings/model_deprecate.php:63
+#: inc/settings/model_deprecate.php:72 inc/settings/model_deprecate.php:81
+#: inc/settings/model_deprecate.php:100 inc/settings/model_deprecate.php:108
+#: inc/settings/model_deprecate.php:121 inc/settings/model_deprecate.php:141
+#: inc/settings/model_deprecate.php:160 inc/settings/model_deprecate.php:169
+#: inc/settings/model_deprecate.php:178 inc/settings/model_deprecate.php:187
+#: inc/settings/model_deprecate.php:200
+msgid "On"
+msgstr "Actif"
+
+#: inc/settings/controls.php:170 inc/settings/model_deprecate.php:139
+msgid "Open in new tab"
+msgstr "Ouvrir dans un nouvel onglet"
+
+#: inc/settings/controls.php:164 inc/settings/model_deprecate.php:133
+msgid "Admin dashboard"
+msgstr "Tableau de bord de l’administration"
+
+#: inc/settings/controls.php:158 inc/settings/model_deprecate.php:127
+msgid "Exit point"
+msgstr "Point de sortie"
+
+#: inc/settings/controls.php:95 inc/settings/model_deprecate.php:88
+msgid "Editor skins"
+msgstr "Habillages de l’éditeur"
+
+#: admin/settings.php:39 inc/settings/model_deprecate.php:38
+msgid "FEP Settings"
+msgstr "Réglages FEP"
+
+#: admin/settings.php:54 inc/settings/manager_deprecate.php:46
+msgid "Settings"
+msgstr "Réglages"
+
+#. Description of the plugin
+msgid "This is an add-on for popular page builder Elementor. Makes Elementor Widgets Panel flexible, draggable and folding that more space and opportunities."
+msgstr "C’est un module pour le constructeur de page populaire Elementor. Rend flexible le panneau des widgets Elementor, glissable et pliable pour plus d’espace et de possibilités."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/flexible-elementor-panel/"
+msgstr "https://fr.wordpress.org/plugins/flexible-elementor-panel/"
+
+#. Plugin Name of the plugin
+#: admin/settings.php:38 admin/settings.php:124
+#: flexible-elementor-panel.php:288 flexible-elementor-panel.php:311
+#: flexible-elementor-panel.php:335 flexible-elementor-panel.php:361
+msgid "Flexible Elementor Panel"
+msgstr "Flexible Elementor Panel"

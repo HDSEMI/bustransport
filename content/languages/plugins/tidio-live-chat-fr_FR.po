@@ -1,0 +1,93 @@
+# Translation of Plugins - Tidio – Live Chat, Chatbots &amp; Email Marketing - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Tidio – Live Chat, Chatbots &amp; Email Marketing - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-13 12:24:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Tidio – Live Chat, Chatbots &amp; Email Marketing - Stable (latest release)\n"
+
+#: options.php:57
+msgid "Increase sales by skyrocketing communication with customers."
+msgstr "Augmentez vos ventes en améliorant la communication avec les clients."
+
+#: options.php:56
+msgid "Join 300 000+ websites using Tidio - Live Chat boosted with Bots"
+msgstr "Comme plus de 300 000 sites Web, utilisez Tidio, le chat en direct optimisé par des bots"
+
+#: options.php:52
+msgid "Go to Panel"
+msgstr "Accéder au panneau"
+
+#: options.php:51
+msgid "All you need to do now is select the “Tidio Chat” tab on the left - that will take you to your Tidio panel. You can also open the panel by using the link below."
+msgstr "Il vous suffit simplement de sélectionner l'onglet « Tidio Chat » sur la gauche pour accéder à votre panneau Tidio. Vous pouvez également accéder au panneau en utilisant le lien ci-dessous."
+
+#: options.php:50
+msgid "Your site is already integrated with Tidio Chat"
+msgstr "Votre site est déjà intégré avec le chat Tidio"
+
+#: options.php:47
+msgid "Start all over again"
+msgstr "Recommencer à zéro"
+
+#: options.php:40
+msgid "Pick one from the list"
+msgstr "Choisissez-en un dans la liste"
+
+#: options.php:35 options.php:37
+msgid "Choose your project"
+msgstr "Sélectionnez votre projet"
+
+#: options.php:32
+msgid "Forgot password?"
+msgstr "Mot de passe oublié ?"
+
+#: options.php:31 options.php:46
+msgid "Go to Tidio panel"
+msgstr "Accéder au panneau Tidio"
+
+#: options.php:27
+msgid "Type your password"
+msgstr "Saisissez votre mot de passe"
+
+#: options.php:26
+msgid "Password"
+msgstr "Mot de passe"
+
+#: options.php:19
+msgid "Log into your account"
+msgstr "Connectez-vous à votre compte"
+
+#: options.php:16
+msgid "Let’s go"
+msgstr "C'est parti"
+
+#: options.php:11 options.php:21
+msgid "Email Address"
+msgstr "Adresse e-mail"
+
+#: options.php:9
+msgid "Start using Tidio"
+msgstr "Commencez à utiliser Tidio"
+
+#. Author of the plugin
+msgid "Tidio Ltd."
+msgstr "Tidio Ltd."
+
+#. Description of the plugin
+msgid "Tidio Live Chat - live chat boosted with chatbots for your online business. Integrates with your website in less than 20 seconds."
+msgstr "Tidio Live Chat : un chat en direct optimisé avec des chatbots au service de votre activité en ligne. Intégration à votre site Web en moins de 20 secondes."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.tidio.com"
+msgstr "http://www.tidio.com"
+
+#. Plugin Name of the plugin
+msgid "Tidio Chat"
+msgstr "Tidio Chat"

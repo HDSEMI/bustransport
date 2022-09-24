@@ -1,0 +1,43 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Customizer for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-19 11:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.7; wp-5.8.3\n"
+"X-Domain: woo-email-customizer"
+
+#. Description of the plugin
+msgid ""
+"Customize your WooCommerce emails using the drag and drop builder to match "
+"your brand style."
+msgstr ""
+
+#. Name of the plugin
+msgid "Email Customizer for WooCommerce"
+msgstr ""
+
+#: classes/class-wecmf-settings.php:157
+msgid "Get Pro"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.themehigh.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.themehigh.com/product/woocommerce-email-customizer"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeHigh"
+msgstr ""

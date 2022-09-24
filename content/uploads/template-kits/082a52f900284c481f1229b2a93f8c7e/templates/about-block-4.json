@@ -1,0 +1,902 @@
+{
+    "version": "0.4",
+    "title": "About-block-4",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-about",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "6ac42f04",
+            "settings": {
+                "gap": "no",
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "15",
+                    "bottom": "100",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "_title": "About -blocks-4"
+            },
+            "elements": [
+                {
+                    "id": "66a7041d",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "7ae830a4",
+                            "settings": {
+                                "gap": "no",
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "11d6585",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 60,
+                                        "_inline_size_tablet": 100,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "30",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "15d514d2",
+                                            "settings": {
+                                                "title": "About us",
+                                                "header_size": "h5",
+                                                "align_tablet": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "60c30ca4",
+                                            "settings": {
+                                                "title": "INtroducing about our construction business",
+                                                "align_tablet": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "769bab16",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 40,
+                                        "_inline_size_tablet": 100,
+                                        "content_position": "bottom",
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2a2f493",
+                                            "settings": {
+                                                "editor": "<p>Platea deleniti convallis repudiandae natoque impedit, asperiores, gravida suspendisse, hac habitant aut iste nisi, porta accumsan justo dui malesuada gravida.<\/p>",
+                                                "align_tablet": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "5620e26e",
+                            "settings": {
+                                "gap": "no",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "2e212bc6",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 100
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "15b27e3d",
+                                            "settings": {
+                                                "slides": [
+                                                    {
+                                                        "image": {
+                                                            "id": 299,
+                                                            "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img18.jpg",
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "_id": "ddc1484",
+                                                        "type": "video",
+                                                        "video": {
+                                                            "url": "https:\/\/www.youtube.com\/embed\/MLpWrANjFbI",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        }
+                                                    }
+                                                ],
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 630,
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 400,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "media-carousel",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "1ec50b91",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 100,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "50",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "-50",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "-150",
+                                            "right": "30",
+                                            "bottom": "0",
+                                            "left": "30",
+                                            "isLinked": false
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "-100",
+                                            "right": "10",
+                                            "bottom": "0",
+                                            "left": "10",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "59b16aec",
+                                            "settings": {
+                                                "gap": "no"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "1d094ddc",
+                                                    "settings": {
+                                                        "_column_size": 100,
+                                                        "_inline_size": null,
+                                                        "background_background": "classic",
+                                                        "background_color": "#FFFFFF",
+                                                        "box_shadow_box_shadow_type": "yes",
+                                                        "box_shadow_box_shadow": {
+                                                            "horizontal": 0,
+                                                            "vertical": 0,
+                                                            "blur": 25,
+                                                            "spread": 0,
+                                                            "color": "rgba(0, 0, 0, 0.15)"
+                                                        },
+                                                        "margin": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "35",
+                                                            "right": "40",
+                                                            "bottom": "35",
+                                                            "left": "40",
+                                                            "isLinked": false
+                                                        },
+                                                        "padding_mobile": {
+                                                            "unit": "px",
+                                                            "top": "30",
+                                                            "right": "30",
+                                                            "bottom": "30",
+                                                            "left": "30",
+                                                            "isLinked": true
+                                                        },
+                                                        "z_index": 1
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "1655160b",
+                                                            "settings": {
+                                                                "structure": "20"
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "2153d123",
+                                                                    "settings": {
+                                                                        "_column_size": 50,
+                                                                        "_inline_size": null,
+                                                                        "border_border": "solid",
+                                                                        "border_width": {
+                                                                            "unit": "px",
+                                                                            "top": "0",
+                                                                            "right": "1",
+                                                                            "bottom": "1",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "border_width_mobile": {
+                                                                            "unit": "px",
+                                                                            "top": "0",
+                                                                            "right": "0",
+                                                                            "bottom": "1",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "border_color": "#030F271A",
+                                                                        "padding": {
+                                                                            "unit": "px",
+                                                                            "top": "0",
+                                                                            "right": "40",
+                                                                            "bottom": "20",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "padding_mobile": {
+                                                                            "unit": "px",
+                                                                            "top": "0",
+                                                                            "right": "0",
+                                                                            "bottom": "15",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "__globals__": {
+                                                                            "border_color": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [
+                                                                        {
+                                                                            "id": "199d255a",
+                                                                            "settings": {
+                                                                                "title": "QUALITY ASSURANCE",
+                                                                                "header_size": "h5"
+                                                                            },
+                                                                            "elements": [],
+                                                                            "isInner": false,
+                                                                            "widgetType": "heading",
+                                                                            "elType": "widget"
+                                                                        },
+                                                                        {
+                                                                            "id": "3a870f75",
+                                                                            "settings": {
+                                                                                "title": "",
+                                                                                "percent": {
+                                                                                    "unit": "%",
+                                                                                    "size": 90,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "inner_text": "",
+                                                                                "bar_color": "#FD5D14C9",
+                                                                                "bar_height": {
+                                                                                    "unit": "px",
+                                                                                    "size": 18,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_border_radius": {
+                                                                                    "unit": "px",
+                                                                                    "size": 0,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_font_family": "Poppins",
+                                                                                "bar_inner_typography_font_size": {
+                                                                                    "unit": "px",
+                                                                                    "size": 13,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_font_weight": "normal",
+                                                                                "bar_inner_typography_text_transform": "none",
+                                                                                "__globals__": {
+                                                                                    "bar_color": "",
+                                                                                    "bar_inner_typography_typography": ""
+                                                                                },
+                                                                                "bar_inner_typography_line_height": {
+                                                                                    "unit": "em",
+                                                                                    "size": 1.1,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_line_height_tablet": {
+                                                                                    "unit": "em",
+                                                                                    "size": "",
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_line_height_mobile": {
+                                                                                    "unit": "em",
+                                                                                    "size": "",
+                                                                                    "sizes": []
+                                                                                }
+                                                                            },
+                                                                            "elements": [],
+                                                                            "isInner": false,
+                                                                            "widgetType": "progress",
+                                                                            "elType": "widget"
+                                                                        },
+                                                                        {
+                                                                            "id": "52c7817f",
+                                                                            "settings": {
+                                                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamp.<\/p>"
+                                                                            },
+                                                                            "elements": [],
+                                                                            "isInner": false,
+                                                                            "widgetType": "text-editor",
+                                                                            "elType": "widget"
+                                                                        }
+                                                                    ],
+                                                                    "isInner": true,
+                                                                    "elType": "column"
+                                                                },
+                                                                {
+                                                                    "id": "53b16d51",
+                                                                    "settings": {
+                                                                        "_column_size": 50,
+                                                                        "_inline_size": null,
+                                                                        "border_border": "solid",
+                                                                        "border_width": {
+                                                                            "unit": "px",
+                                                                            "top": "0",
+                                                                            "right": "0",
+                                                                            "bottom": "1",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "border_width_mobile": {
+                                                                            "unit": "px",
+                                                                            "top": "0",
+                                                                            "right": "0",
+                                                                            "bottom": "1",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "border_color": "#030F271A",
+                                                                        "padding": {
+                                                                            "unit": "px",
+                                                                            "top": "0",
+                                                                            "right": "0",
+                                                                            "bottom": "20",
+                                                                            "left": "40",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "padding_mobile": {
+                                                                            "unit": "px",
+                                                                            "top": "30",
+                                                                            "right": "0",
+                                                                            "bottom": "15",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "__globals__": {
+                                                                            "border_color": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [
+                                                                        {
+                                                                            "id": "2cea5bfa",
+                                                                            "settings": {
+                                                                                "title": "Planning strategy",
+                                                                                "header_size": "h5"
+                                                                            },
+                                                                            "elements": [],
+                                                                            "isInner": false,
+                                                                            "widgetType": "heading",
+                                                                            "elType": "widget"
+                                                                        },
+                                                                        {
+                                                                            "id": "40459592",
+                                                                            "settings": {
+                                                                                "title": "",
+                                                                                "percent": {
+                                                                                    "unit": "%",
+                                                                                    "size": 85,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "inner_text": "",
+                                                                                "bar_color": "#FD5D14C9",
+                                                                                "bar_height": {
+                                                                                    "unit": "px",
+                                                                                    "size": 18,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_border_radius": {
+                                                                                    "unit": "px",
+                                                                                    "size": 0,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_font_family": "Poppins",
+                                                                                "bar_inner_typography_font_size": {
+                                                                                    "unit": "px",
+                                                                                    "size": 13,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_font_weight": "normal",
+                                                                                "bar_inner_typography_text_transform": "none",
+                                                                                "__globals__": {
+                                                                                    "bar_color": "",
+                                                                                    "bar_inner_typography_typography": ""
+                                                                                },
+                                                                                "bar_inner_typography_line_height": {
+                                                                                    "unit": "em",
+                                                                                    "size": 1.1,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_line_height_tablet": {
+                                                                                    "unit": "em",
+                                                                                    "size": "",
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_line_height_mobile": {
+                                                                                    "unit": "em",
+                                                                                    "size": "",
+                                                                                    "sizes": []
+                                                                                }
+                                                                            },
+                                                                            "elements": [],
+                                                                            "isInner": false,
+                                                                            "widgetType": "progress",
+                                                                            "elType": "widget"
+                                                                        },
+                                                                        {
+                                                                            "id": "6c464356",
+                                                                            "settings": {
+                                                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamp.<\/p>"
+                                                                            },
+                                                                            "elements": [],
+                                                                            "isInner": false,
+                                                                            "widgetType": "text-editor",
+                                                                            "elType": "widget"
+                                                                        }
+                                                                    ],
+                                                                    "isInner": true,
+                                                                    "elType": "column"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "section"
+                                                        },
+                                                        {
+                                                            "id": "4f84676f",
+                                                            "settings": {
+                                                                "structure": "20"
+                                                            },
+                                                            "elements": [
+                                                                {
+                                                                    "id": "1ebe5696",
+                                                                    "settings": {
+                                                                        "_column_size": 50,
+                                                                        "_inline_size": null,
+                                                                        "border_border": "solid",
+                                                                        "border_width": {
+                                                                            "unit": "px",
+                                                                            "top": "0",
+                                                                            "right": "1",
+                                                                            "bottom": "0",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "border_width_mobile": {
+                                                                            "unit": "px",
+                                                                            "top": "0",
+                                                                            "right": "0",
+                                                                            "bottom": "1",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "border_color": "#030F271A",
+                                                                        "padding": {
+                                                                            "unit": "px",
+                                                                            "top": "35",
+                                                                            "right": "40",
+                                                                            "bottom": "0",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "padding_mobile": {
+                                                                            "unit": "px",
+                                                                            "top": "30",
+                                                                            "right": "0",
+                                                                            "bottom": "15",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "__globals__": {
+                                                                            "border_color": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [
+                                                                        {
+                                                                            "id": "3ec2d908",
+                                                                            "settings": {
+                                                                                "title": "INfo security",
+                                                                                "header_size": "h5"
+                                                                            },
+                                                                            "elements": [],
+                                                                            "isInner": false,
+                                                                            "widgetType": "heading",
+                                                                            "elType": "widget"
+                                                                        },
+                                                                        {
+                                                                            "id": "4c2510df",
+                                                                            "settings": {
+                                                                                "title": "",
+                                                                                "percent": {
+                                                                                    "unit": "%",
+                                                                                    "size": 95,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "inner_text": "",
+                                                                                "bar_color": "#FD5D14C9",
+                                                                                "bar_height": {
+                                                                                    "unit": "px",
+                                                                                    "size": 18,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_border_radius": {
+                                                                                    "unit": "px",
+                                                                                    "size": 0,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_font_family": "Poppins",
+                                                                                "bar_inner_typography_font_size": {
+                                                                                    "unit": "px",
+                                                                                    "size": 13,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_font_weight": "normal",
+                                                                                "bar_inner_typography_text_transform": "none",
+                                                                                "__globals__": {
+                                                                                    "bar_color": "",
+                                                                                    "bar_inner_typography_typography": ""
+                                                                                },
+                                                                                "bar_inner_typography_line_height": {
+                                                                                    "unit": "em",
+                                                                                    "size": 1.1,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_line_height_tablet": {
+                                                                                    "unit": "em",
+                                                                                    "size": "",
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_line_height_mobile": {
+                                                                                    "unit": "em",
+                                                                                    "size": "",
+                                                                                    "sizes": []
+                                                                                }
+                                                                            },
+                                                                            "elements": [],
+                                                                            "isInner": false,
+                                                                            "widgetType": "progress",
+                                                                            "elType": "widget"
+                                                                        },
+                                                                        {
+                                                                            "id": "1092e555",
+                                                                            "settings": {
+                                                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamp.<\/p>",
+                                                                                "_margin": {
+                                                                                    "unit": "px",
+                                                                                    "top": "0",
+                                                                                    "right": "0",
+                                                                                    "bottom": "-10",
+                                                                                    "left": "0",
+                                                                                    "isLinked": false
+                                                                                },
+                                                                                "_margin_mobile": {
+                                                                                    "unit": "px",
+                                                                                    "top": "0",
+                                                                                    "right": "0",
+                                                                                    "bottom": "0",
+                                                                                    "left": "0",
+                                                                                    "isLinked": false
+                                                                                }
+                                                                            },
+                                                                            "elements": [],
+                                                                            "isInner": false,
+                                                                            "widgetType": "text-editor",
+                                                                            "elType": "widget"
+                                                                        }
+                                                                    ],
+                                                                    "isInner": true,
+                                                                    "elType": "column"
+                                                                },
+                                                                {
+                                                                    "id": "5acd08f",
+                                                                    "settings": {
+                                                                        "_column_size": 50,
+                                                                        "_inline_size": null,
+                                                                        "border_border": "solid",
+                                                                        "border_width": {
+                                                                            "unit": "px",
+                                                                            "top": "0",
+                                                                            "right": "0",
+                                                                            "bottom": "0",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "border_color": "#030F271A",
+                                                                        "padding": {
+                                                                            "unit": "px",
+                                                                            "top": "35",
+                                                                            "right": "0",
+                                                                            "bottom": "0",
+                                                                            "left": "40",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "padding_mobile": {
+                                                                            "unit": "px",
+                                                                            "top": "30",
+                                                                            "right": "0",
+                                                                            "bottom": "0",
+                                                                            "left": "0",
+                                                                            "isLinked": false
+                                                                        },
+                                                                        "__globals__": {
+                                                                            "border_color": ""
+                                                                        }
+                                                                    },
+                                                                    "elements": [
+                                                                        {
+                                                                            "id": "2394a56f",
+                                                                            "settings": {
+                                                                                "title": "Process building",
+                                                                                "header_size": "h5"
+                                                                            },
+                                                                            "elements": [],
+                                                                            "isInner": false,
+                                                                            "widgetType": "heading",
+                                                                            "elType": "widget"
+                                                                        },
+                                                                        {
+                                                                            "id": "f7ee9a7",
+                                                                            "settings": {
+                                                                                "title": "",
+                                                                                "percent": {
+                                                                                    "unit": "%",
+                                                                                    "size": 88,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "inner_text": "",
+                                                                                "bar_color": "#FD5D14C9",
+                                                                                "bar_height": {
+                                                                                    "unit": "px",
+                                                                                    "size": 18,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_border_radius": {
+                                                                                    "unit": "px",
+                                                                                    "size": 0,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_font_family": "Poppins",
+                                                                                "bar_inner_typography_font_size": {
+                                                                                    "unit": "px",
+                                                                                    "size": 13,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_font_weight": "normal",
+                                                                                "bar_inner_typography_text_transform": "none",
+                                                                                "__globals__": {
+                                                                                    "bar_color": "",
+                                                                                    "bar_inner_typography_typography": ""
+                                                                                },
+                                                                                "bar_inner_typography_line_height": {
+                                                                                    "unit": "em",
+                                                                                    "size": 1.1,
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_line_height_tablet": {
+                                                                                    "unit": "em",
+                                                                                    "size": "",
+                                                                                    "sizes": []
+                                                                                },
+                                                                                "bar_inner_typography_line_height_mobile": {
+                                                                                    "unit": "em",
+                                                                                    "size": "",
+                                                                                    "sizes": []
+                                                                                }
+                                                                            },
+                                                                            "elements": [],
+                                                                            "isInner": false,
+                                                                            "widgetType": "progress",
+                                                                            "elType": "widget"
+                                                                        },
+                                                                        {
+                                                                            "id": "2675c5d3",
+                                                                            "settings": {
+                                                                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamp.<\/p>",
+                                                                                "_margin": {
+                                                                                    "unit": "px",
+                                                                                    "top": "0",
+                                                                                    "right": "0",
+                                                                                    "bottom": "-10",
+                                                                                    "left": "0",
+                                                                                    "isLinked": false
+                                                                                }
+                                                                            },
+                                                                            "elements": [],
+                                                                            "isInner": false,
+                                                                            "widgetType": "text-editor",
+                                                                            "elType": "widget"
+                                                                        }
+                                                                    ],
+                                                                    "isInner": true,
+                                                                    "elType": "column"
+                                                                }
+                                                            ],
+                                                            "isInner": true,
+                                                            "elType": "section"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "1ce64b2b",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 375,
+                                        "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img15-1.png"
+                                    },
+                                    {
+                                        "id": 374,
+                                        "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img14-1.png"
+                                    },
+                                    {
+                                        "id": 372,
+                                        "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img12-1.png"
+                                    },
+                                    {
+                                        "id": 373,
+                                        "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img13-1.png"
+                                    },
+                                    {
+                                        "id": 371,
+                                        "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img11-1.png"
+                                    }
+                                ],
+                                "slides_to_show": "5",
+                                "slides_to_show_tablet": "4",
+                                "slides_to_show_mobile": "2",
+                                "navigation": "none",
+                                "image_spacing": "custom",
+                                "image_spacing_custom": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "image_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "18",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_canvas"
+    }
+}

@@ -1,0 +1,374 @@
+{
+    "version": "0.4",
+    "title": "Accordion-block-1",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-faq",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "39446968",
+            "settings": {
+                "gap": "no",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "id": 543,
+                    "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img055.png",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.03,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "15",
+                    "bottom": "100",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "_title": "Accordion-block-1"
+            },
+            "elements": [
+                {
+                    "id": "1db5a92f",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "57620050",
+                            "settings": {
+                                "title": "Frequently asked questions",
+                                "header_size": "h5",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "44533c8b",
+                            "settings": {
+                                "title": "You Can Learn More From Our Asked Questions",
+                                "align": "center",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "150",
+                                    "bottom": "0",
+                                    "left": "150",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "17cb405c",
+                            "settings": {
+                                "editor": "<p>Voluptatibus dolore reprehenderit, aliqua nesciunt dapibus vitae, corporis ullamco tempore, tenetur, omnis felis potenti? Natus? Lobortis, sint ridiculus platea eos.<\/p>",
+                                "align": "center",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "200",
+                                    "bottom": "0",
+                                    "left": "200",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "df3017a",
+                            "settings": {
+                                "gap": "no",
+                                "structure": "20",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "e3c00e6",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 100,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "20",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "25",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "50b7d4d9",
+                                            "settings": {
+                                                "tabs": [
+                                                    {
+                                                        "tab_title": "How we became best among others?",
+                                                        "tab_content": "<p>Mauris facere ab! Occaecati! Cubilia a repellat. Ipsum rerum! Scelerisque ipsum suscipit expedita consequatur. Facere earum per, varius morbi aut temporibus do officiis voluptatibus, cum.<\/p>",
+                                                        "_id": "9851660"
+                                                    },
+                                                    {
+                                                        "tab_title": "Why choose us for your projects?",
+                                                        "tab_content": "<p>Mauris facere ab! Occaecati! Cubilia a repellat. Ipsum rerum! Scelerisque ipsum suscipit expedita consequatur. Facere earum per, varius morbi aut temporibus do officiis voluptatibus, cum.<\/p>",
+                                                        "_id": "63e65dc"
+                                                    },
+                                                    {
+                                                        "tab_title": "How we provide services for you?",
+                                                        "tab_content": "<p>Mauris facere ab! Occaecati! Cubilia a repellat. Ipsum rerum! Scelerisque ipsum suscipit expedita consequatur. Facere earum per, varius morbi aut temporibus do officiis voluptatibus, cum.<\/p>",
+                                                        "_id": "c814707"
+                                                    },
+                                                    {
+                                                        "tab_title": "Are we affordable to hire?",
+                                                        "tab_content": "<p>Mauris facere ab! Occaecati! Cubilia a repellat. Ipsum rerum! Scelerisque ipsum suscipit expedita consequatur. Facere earum per, varius morbi aut temporibus do officiis voluptatibus, cum.<\/p>",
+                                                        "_id": "8bff897"
+                                                    }
+                                                ],
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "box_shadow_box_shadow_type": "yes",
+                                                "box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 13,
+                                                    "spread": -4,
+                                                    "color": "rgba(0, 0, 0, 0.2)"
+                                                },
+                                                "title_background": "#FD5D14",
+                                                "title_color": "#FFFFFF",
+                                                "title_padding": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "20",
+                                                    "left": "20",
+                                                    "isLinked": true
+                                                },
+                                                "icon_space": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "content_background_color": "#FFFFFF",
+                                                "content_padding": {
+                                                    "unit": "px",
+                                                    "top": "25",
+                                                    "right": "25",
+                                                    "bottom": "10",
+                                                    "left": "25",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "title_background": "globals\/colors?id=primary",
+                                                    "tab_active_color": "globals\/colors?id=secondary",
+                                                    "title_typography_typography": "globals\/typography?id=accent",
+                                                    "content_typography_typography": "globals\/typography?id=text",
+                                                    "content_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "toggle",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "215c15d5",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 100,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "20",
+                                            "isLinked": false
+                                        },
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1738286b",
+                                            "settings": {
+                                                "tabs": [
+                                                    {
+                                                        "tab_title": "Where can i find out about company?",
+                                                        "tab_content": "<p>Mauris facere ab! Occaecati! Cubilia a repellat. Ipsum rerum! Scelerisque ipsum suscipit expedita consequatur. Facere earum per, varius morbi aut temporibus do officiis voluptatibus, cum.<\/p>",
+                                                        "_id": "9851660"
+                                                    },
+                                                    {
+                                                        "tab_title": "What we offer to you?",
+                                                        "tab_content": "<p>Mauris facere ab! Occaecati! Cubilia a repellat. Ipsum rerum! Scelerisque ipsum suscipit expedita consequatur. Facere earum per, varius morbi aut temporibus do officiis voluptatibus, cum.<\/p>",
+                                                        "_id": "63e65dc"
+                                                    },
+                                                    {
+                                                        "tab_title": "What is best advice for gowth?",
+                                                        "tab_content": "<p>Mauris facere ab! Occaecati! Cubilia a repellat. Ipsum rerum! Scelerisque ipsum suscipit expedita consequatur. Facere earum per, varius morbi aut temporibus do officiis voluptatibus, cum.<\/p>",
+                                                        "_id": "c814707"
+                                                    },
+                                                    {
+                                                        "tab_title": "How can i make a appointment",
+                                                        "tab_content": "<p>Mauris facere ab! Occaecati! Cubilia a repellat. Ipsum rerum! Scelerisque ipsum suscipit expedita consequatur. Facere earum per, varius morbi aut temporibus do officiis voluptatibus, cum.<\/p>",
+                                                        "_id": "8bff897"
+                                                    }
+                                                ],
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "box_shadow_box_shadow_type": "yes",
+                                                "box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 0,
+                                                    "blur": 13,
+                                                    "spread": -4,
+                                                    "color": "rgba(0, 0, 0, 0.2)"
+                                                },
+                                                "title_background": "#FD5D14",
+                                                "title_color": "#FFFFFF",
+                                                "title_padding": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "20",
+                                                    "bottom": "20",
+                                                    "left": "20",
+                                                    "isLinked": true
+                                                },
+                                                "icon_space": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "content_background_color": "#FFFFFF",
+                                                "content_padding": {
+                                                    "unit": "px",
+                                                    "top": "25",
+                                                    "right": "25",
+                                                    "bottom": "10",
+                                                    "left": "25",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "title_background": "globals\/colors?id=primary",
+                                                    "tab_active_color": "globals\/colors?id=secondary",
+                                                    "title_typography_typography": "globals\/typography?id=accent",
+                                                    "content_typography_typography": "globals\/typography?id=text",
+                                                    "content_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "toggle",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_canvas"
+    }
+}

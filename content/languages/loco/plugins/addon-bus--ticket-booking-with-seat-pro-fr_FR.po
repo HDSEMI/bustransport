@@ -1,0 +1,1325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bus Ticket Booking with Seat Reservation PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-27 07:09+0000\n"
+"PO-Revision-Date: 2022-01-15 22:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.6; wp-5.8.3\n"
+"X-Domain: addon-bus--ticket-booking-with-seat-pro"
+
+#: includes/class_wbbm_report.php:931
+msgid "10 Days"
+msgstr "10 jours"
+
+#: includes/class_wbbm_report.php:943
+msgid "120 Days"
+msgstr "120 jours"
+
+#: includes/class_wbbm_report.php:935
+msgid "15 Days"
+msgstr "15 jours"
+
+#: includes/class_wbbm_report.php:939
+msgid "30 Days"
+msgstr "30 jours"
+
+#: includes/class_wbbm_report.php:927
+msgid "7 Days"
+msgstr "7 jours"
+
+#: includes/class-metabox.php:17
+msgid "<i class=\"fas fa-cog\"></i> Nav Title 2"
+msgstr "<i class=\"fas fa-cog\"></i> Titre de navigation 2"
+
+#: includes/class-settings.php:205
+msgid "<i class=\"fas fa-file-pdf\"></i> Checkout Field"
+msgstr "<i class=\"fas fa-file-pdf\"></i> Champ de contrôle"
+
+#: includes/class-settings.php:12
+msgid "<i class=\"fas fa-file-pdf\"></i> PDF"
+msgstr ""
+
+#: wbtm-pro.php:81
+msgid ""
+">Click Here to Install PDF Support</a>. You need to install and activete "
+"these 3 plugin unless Bus Ticket Booking with Seat Reservation PRO will not "
+"work. "
+msgstr ""
+">Cliquez ici pour installer le support PDF</a>. Vous devez installer et "
+"activer ces 3 plugins à moins que Bus Ticket Booking with Seat Reservation "
+"PRO ne fonctionne pas. "
+
+#: includes/extra_services.php:238 includes/class_wbbm_report.php:462
+#: includes/class_wbbm_report.php:646 includes/passenger_list-21-07-20.php:110
+#: includes/passenger_list.php:136 includes/passenger_list.php:611
+msgid "Action"
+msgstr "Action"
+
+#: includes/class-metabox.php:87
+msgid "Add New Field"
+msgstr "Ajouter un nouveau champ"
+
+#: includes/class-cpt.php:20 includes/class-cpt.php:21
+msgid "Add New Passenger List"
+msgstr "Ajouter une nouvelle liste de passagers"
+
+#: includes/class-settings.php:233 includes/passenger_list.php:488
+#: includes/passenger_list.php:945
+msgid "Address"
+msgstr "Adresse"
+
+#: includes/class-shortcode.php:127
+msgid "Address:"
+msgstr "Adresse :"
+
+#: includes/class-settings.php:174 includes/class-settings.php:175
+#: includes/class-settings.php:178
+msgid "Admin Notification Email"
+msgstr "Courriel de notification de l'administrateur"
+
+#: includes/class-cpt.php:19
+msgid "All Passenger List"
+msgstr "Liste de tous les passagers"
+
+#: includes/wbtm_admin_ticket_purchase.php:60
+msgid "Already Booked By Another! This request was not accepted."
+msgstr "Déjà réservé par un autre ! Cette demande n'a pas été acceptée."
+
+#: includes/class_wbbm_report.php:645
+msgid "Amount"
+msgstr "Montant"
+
+#: public/pdf/templates/pdf-templates/flat/template.php:436
+msgid "Arrival Date"
+msgstr "Date d'arrivée"
+
+#: includes/report.php:93
+msgid "Available"
+msgstr "Disponible sur"
+
+#: includes/class-settings.php:44
+msgid "Background Image "
+msgstr "Image de fond "
+
+#: includes/extra_services.php:231 includes/class_wbbm_report.php:452
+msgid "Billing Name"
+msgstr "Nom de facturation"
+
+#: includes/class-csv-export.php:50 includes/class-csv-export.php:64
+#: includes/passenger_list.php:518
+msgid "Billing Type"
+msgstr "Type de facturation"
+
+#: includes/extra_services.php:235 includes/class_wbbm_report.php:454
+#: includes/wbtm_admin_ticket_purchase.php:721 includes/passenger_list.php:134
+msgid "Boarding"
+msgstr "Embarquement"
+
+#: includes/class_wbbm_report.php:554 includes/class_wbbm_report.php:557
+#: includes/wbtm_admin_ticket_purchase_new.php:79
+#: includes/wbtm_admin_ticket_purchase.php:397
+msgid "Boarding Point"
+msgstr "Point d'embarquement"
+
+#: includes/class-shortcode.php:137
+#: public/pdf/templates/pdf-templates/flat/template.php:452
+msgid "Boarding:"
+msgstr "Embarquement :"
+
+#: includes/wbtm_admin_ticket_purchase.php:869
+msgid "Book Now"
+msgstr "Réservez maintenant"
+
+#: includes/report.php:97
+msgid "Booked"
+msgstr "Réservé"
+
+#: includes/extra_services.php:233 includes/extra_services.php:342
+#: includes/class_wbbm_report.php:453 includes/class-csv-export.php:47
+#: includes/class-csv-export.php:61 includes/class-csv-export.php:75
+#: includes/passenger_list.php:132 includes/passenger_list.php:232
+#: includes/passenger_list.php:590
+msgid "Booking Date"
+msgstr "Date de réservation"
+
+#: includes/class-metabox.php:84
+msgid "Build Your Attendee Form"
+msgstr "Créez votre formulaire de participation"
+
+#: includes/extra_services.php:232 includes/extra_services.php:310
+#: includes/class_wbbm_report.php:644 includes/passenger_list-21-07-20.php:104
+#: includes/class-csv-export.php:46 includes/class-csv-export.php:60
+#: includes/class-csv-export.php:74 includes/wbtm_admin_ticket_purchase.php:428
+#: includes/passenger_list.php:131 includes/passenger_list.php:589
+msgid "Bus Name"
+msgstr "Nom du bus"
+
+#: includes/class-shortcode.php:143 includes/class-shortcode.php:148
+#: public/pdf/templates/pdf-templates/flat/template.php:474
+msgid "Bus No:"
+msgstr "Numéro de bus"
+
+#. Name of the plugin
+msgid "Bus Ticket Booking with Seat Reservation PRO"
+msgstr "Réservation de billets de bus avec réservation de sièges PRO"
+
+#: includes/wbtm_admin_ticket_purchase.php:375
+msgid "Bus type"
+msgstr "Bus type"
+
+#: lib/classes/class-pdf.php:49 lib/classes/class-pdf.php:50
+#: lib/classes/class-pdf.php:81
+msgid "Bus_ticket_"
+msgstr "Billet de bus"
+
+#: includes/extra_services.php:312 includes/class_wbbm_report.php:535
+#: includes/passenger_list.php:181 includes/report.php:55
+msgid "By Bus"
+msgstr "Par bus"
+
+#: includes/report.php:77
+msgid "By Journey Date"
+msgstr "Par date de voyage"
+
+#: includes/class_wbbm_report.php:518
+msgid "By Seller"
+msgstr "Par le vendeur"
+
+#: includes/class-settings.php:148
+msgid "Cancelled"
+msgstr "Annulé"
+
+#: includes/passenger_list.php:609
+msgid "Check in"
+msgstr "Enregistrement"
+
+#: includes/class-metabox.php:114
+msgid "Checkbox"
+msgstr "Case à cocher"
+
+#: includes/class-settings.php:209
+msgid "Checkout Field"
+msgstr "Champ de contrôle"
+
+#: includes/class-settings.php:234 includes/passenger_list.php:491
+msgid "City"
+msgstr "Ville"
+
+#: includes/extra_services.php:308 includes/passenger_list.php:176
+msgid "Clear all filter"
+msgstr "Effacer tous les filtres"
+
+#: includes/class_wbbm_report.php:643
+msgid "Coach No"
+msgstr ""
+
+#: includes/wbtm_admin_ticket_purchase.php:737
+msgid "Coach Type:"
+msgstr "Type de car :"
+
+#: includes/class-settings.php:232 includes/passenger_list.php:485
+msgid "Company"
+msgstr "Compagnie"
+
+#: includes/class-settings.php:68 includes/class-settings.php:72
+msgid "Company Address"
+msgstr "Adresse de la compagnie"
+
+#: includes/class-settings.php:88 includes/class-settings.php:92
+msgid "Company Email"
+msgstr "Courriel de l'entreprise"
+
+#: includes/class-settings.php:78
+msgid "Company Phone"
+msgstr "Téléphone de l'entreprise"
+
+#: includes/class-settings.php:82
+msgid "Company phone"
+msgstr "Téléphone de l'entreprise"
+
+#: includes/class-settings.php:146
+msgid "Completed"
+msgstr "Complété"
+
+#: includes/class-settings.php:237 includes/passenger_list.php:500
+msgid "Country"
+msgstr "Pays"
+
+#: includes/class-settings.php:215
+msgid "Custom Fields "
+msgstr "Champs personnalisés "
+
+#: includes/wbtm_admin_ticket_purchase.php:744
+msgid "Date:"
+msgstr "Date:"
+
+#: includes/class-settings.php:223
+msgid "Default Fields"
+msgstr "Champs par défaut"
+
+#: includes/class_wbbm_report.php:393 includes/class_wbbm_report.php:621
+msgid "Details Inside"
+msgstr "Détails à l'intérieur"
+
+#: includes/function.install_plugin.php:35
+#: includes/passenger_list-21-07-20.php:24 includes/passenger_list.php:62
+#: includes/passenger_list.php:77
+msgid "Dismiss this notice."
+msgstr "Rejeter cette notification."
+
+#: includes/wbtm_admin_ticket_purchase(copy).php:194
+#: includes/class-function.php:357 includes/wbtm_admin_ticket_purchase.php:194
+#: includes/wbtm_admin_ticket_purchase.php:265
+#: includes/wbtm_admin_ticket_purchase.php:336
+#: includes/wbtm_admin_ticket_purchase_old_plugin-05-02-2021.php:224
+msgid "Download Ticket"
+msgstr "Télécharger le ticket"
+
+#: includes/report.php:122
+msgid "Driver Position"
+msgstr "Position du conducteur"
+
+#: includes/extra_services.php:236 includes/class_wbbm_report.php:455
+#: includes/wbtm_admin_ticket_purchase.php:729 includes/passenger_list.php:135
+msgid "Dropping"
+msgstr ""
+
+#: includes/class_wbbm_report.php:571 includes/class_wbbm_report.php:574
+#: includes/wbtm_admin_ticket_purchase_new.php:87
+#: includes/wbtm_admin_ticket_purchase.php:405
+msgid "Dropping Point"
+msgstr "Point d'arrêt"
+
+#: includes/class-shortcode.php:138
+#: public/pdf/templates/pdf-templates/flat/template.php:455
+msgid "Dropping:"
+msgstr ""
+
+#: includes/class-cpt.php:23
+msgid "Edit Passenger List"
+msgstr "Modifier la liste des passagers"
+
+#: includes/class-settings.php:231 includes/class-metabox.php:39
+#: includes/class-metabox.php:117 includes/passenger_list-21-07-20.php:101
+#: includes/passenger_list.php:482 includes/passenger_list.php:939
+msgid "Email"
+msgstr "Email"
+
+#: includes/class-metabox.php:37
+msgid "Email Address"
+msgstr "Adresse électronique"
+
+#: includes/class-settings.php:164 includes/class-settings.php:165
+#: includes/class-settings.php:167
+msgid "Email Content"
+msgstr "Contenu des e-mails"
+
+#: includes/class-settings.php:196
+msgid "Email From"
+msgstr "Email de"
+
+#: includes/class-settings.php:192 includes/class-settings.php:193
+msgid "Email From Email"
+msgstr "Email de l'email"
+
+#: includes/class-settings.php:183 includes/class-settings.php:184
+#: includes/class-settings.php:187
+msgid "Email From Name"
+msgstr "Email du nom"
+
+#: includes/class-settings.php:117
+msgid "Email Settings"
+msgstr "Paramètres des e-mails"
+
+#: includes/class-settings.php:156 includes/class-settings.php:160
+msgid "Email Subject"
+msgstr "Objet de l'e-mail"
+
+#: includes/class-shortcode.php:121
+#: public/pdf/templates/pdf-templates/flat/template.php:383
+msgid "Email:"
+msgstr "Email:"
+
+#: includes/passenger_list-21-07-20.php:107
+msgid "End"
+msgstr "Fin"
+
+#: includes/class-settings.php:157
+msgid "Enter Email Subject"
+msgstr "Entrez le sujet du courriel"
+
+#: includes/class-settings.php:98
+msgid "Enter Terms & Condition Title"
+msgstr "Entrer le titre des termes et conditions"
+
+#: includes/class-metabox.php:134
+msgid ""
+"Enter values for Select/Checkbox & Radio Fields. Must be comma seperated. Ex:"
+" Male,Female"
+msgstr ""
+"Entrez les valeurs pour les champs Select/Checkbox et Radio. Elles doivent "
+"être séparées par des virgules. Ex : Homme, Femme"
+
+#: includes/class-function.php:73 includes/class-function.php:224
+#: includes/class-function.php:322
+msgid "Enter you address"
+msgstr "Entrez votre adresse"
+
+#: includes/class-function.php:72
+msgid "Enter Your Address"
+msgstr "Entrez votre adresse"
+
+#: includes/class-settings.php:69
+msgid "Enter your Company Address"
+msgstr "Saisissez l'adresse de votre entreprise"
+
+#: includes/class-settings.php:89
+msgid "Enter your Company Email"
+msgstr "Saisissez l'adresse électronique de votre entreprise"
+
+#: includes/class-settings.php:79
+msgid "Enter your Company Phone No"
+msgstr "Entrez le numéro de téléphone de votre entreprise"
+
+#: includes/class-function.php:64 includes/class-function.php:65
+#: includes/class-function.php:224 includes/class-function.php:307
+msgid "Enter Your Email"
+msgstr "Entrez votre courriel"
+
+#: includes/class-function.php:60 includes/class-function.php:61
+#: includes/class-function.php:224 includes/class-function.php:299
+msgid "Enter Your Name"
+msgstr "Entrez votre nom"
+
+#: includes/class-function.php:68 includes/class-function.php:69
+#: includes/class-function.php:224 includes/class-function.php:315
+#: includes/class-function.php:316
+msgid "Enter Your Phone"
+msgstr "Entrez votre téléphone"
+
+#: includes/class_wbbm_report.php:258
+msgid "Export CSV"
+msgstr "Exporter Csv"
+
+#: includes/class_wbbm_report.php:621
+msgid "Export Csv"
+msgstr "Exporter Csv"
+
+#: includes/extra_services.php:222 includes/passenger_list.php:561
+msgid "Export to CSV"
+msgstr "Exporter Csv"
+
+#: includes/class-metabox.php:64 includes/class-metabox.php:66
+msgid "Extra Bag"
+msgstr "Sac supplémentaire"
+
+#: includes/class-function.php:224 includes/class-function.php:331
+msgid "Extra Bag ( Per bag"
+msgstr "Sac supplémentaire ( Par sac"
+
+#: includes/class-function.php:131
+msgid "Extra Bag :"
+msgstr "Sac supplémentaire:"
+
+#: public/pdf/templates/pdf-templates/flat/template.php:393
+msgid "Extra Bag:"
+msgstr "Sac supplémentaire:"
+
+#: includes/passenger_list.php:509
+msgid "Extra Info"
+msgstr "Informations supplémentaires"
+
+#: includes/class-csv-export.php:72
+msgid "Extra Passenger Field"
+msgstr "Champ de passagers supplémentaires"
+
+#: includes/extra_services.php:13 includes/extra_services.php:104
+#: includes/extra_services.php:237
+#: public/pdf/templates/pdf-templates/flat/template.php:525
+msgid "Extra Service"
+msgstr "Service supplémentaire"
+
+#: includes/class-function.php:50
+msgid "Extra service details information"
+msgstr "Informations sur les détails du service supplémentaire"
+
+#: includes/extra_services.php:61
+msgid "Extra Service Edit"
+msgstr "Edition de service supplémentaire"
+
+#: includes/class_wbbm_report.php:459
+msgid "Extra Service Price"
+msgstr "Prix du service supplémentaire"
+
+#: includes/class-settings.php:150
+msgid "Failed"
+msgstr "Échoué"
+
+#: includes/wbtm_admin_ticket_purchase.php:756
+msgid "Fare:"
+msgstr "Tarif :"
+
+#: includes/class-function.php:126 includes/class-function.php:224
+#: includes/class-function.php:327 includes/passenger_list.php:954
+msgid "Female"
+msgstr "Femme"
+
+#: includes/extra_services.php:357 includes/passenger_list.php:247
+#: includes/report.php:81
+msgid "Filter"
+msgstr "Filtre"
+
+#: includes/class_wbbm_report.php:194
+msgid "Filter By"
+msgstr "Filtrer par"
+
+#: includes/extra_services.php:306 includes/passenger_list.php:171
+#: includes/report.php:53
+msgid "Filter list"
+msgstr "Liste des filtres"
+
+#: includes/class-cpt.php:38
+msgid "Filter Passenger List list"
+msgstr "Filtrer la liste des passagers"
+
+#: includes/passenger_list.php:829
+msgid "Found"
+msgstr "Trouvé"
+
+#: includes/class-csv-export.php:52 includes/class-csv-export.php:77
+#: includes/passenger_list.php:597 includes/passenger_list.php:602
+msgid "From"
+msgstr "De"
+
+#: includes/class_wbbm_report.php:589
+msgid "From Date"
+msgstr "De la date"
+
+#: includes/class-metabox.php:30
+msgid "Full Name"
+msgstr "Nom complet"
+
+#: includes/class-metabox.php:55 includes/class-metabox.php:57
+#: includes/class-function.php:122 includes/class-function.php:224
+#: includes/class-function.php:327 includes/passenger_list.php:949
+msgid "Gender"
+msgstr "Genre"
+
+#: includes/class-shortcode.php:119
+#: public/pdf/templates/pdf-templates/flat/template.php:378
+msgid "Gender:"
+msgstr "Genre:"
+
+#: includes/class-settings.php:17 includes/class-settings.php:210
+#: includes/wbtm_admin_ticket_purchase_new.php:62
+msgid "General"
+msgstr "General"
+
+#: includes/wbtm_admin_ticket_purchase.php:381
+#: includes/wbtm_admin_ticket_purchase.php:391
+msgid "General Bus"
+msgstr "Bus général"
+
+#: includes/extra_services.php:93 includes/passenger_list.php:123
+#: includes/passenger_list.php:965
+msgid "Go back"
+msgstr "Retourner"
+
+#: includes/class_wbbm_report.php:629
+#: includes/wbtm_admin_ticket_purchase.php:850
+#: includes/wbtm_admin_ticket_purchase.php:969
+msgid "Grand Total"
+msgstr "Total général"
+
+#: includes/class_wbbm_report.php:635
+msgid "Grand Total:"
+msgstr "Total général:"
+
+#. URI of the plugin
+msgid "http://mage-people.com"
+msgstr "https://shid.fr"
+
+#. Author URI of the plugin
+msgid "http://www.mage-people.com/"
+msgstr "https://shid.fr"
+
+#: includes/class-settings.php:24
+msgid ""
+"If YES, then multiple seats of the same order will generate one ticket.<br> "
+"<span style=\"color:#9e9e9e\">Default No</span>"
+msgstr ""
+"Si OUI, alors plusieurs sièges d'une même commande généreront un seul ticket."
+"<br> <span style=\"color:#9e9e9e\">Défaut Non</span>."
+
+#: includes/wbtm_admin_ticket_purchase.php:425
+msgid "Image"
+msgstr "Image"
+
+#: includes/class-cpt.php:34
+msgid "Insert into Passenger List"
+msgstr "Insérer dans la liste des passagers"
+
+#: includes/passenger_list.php:829
+msgid "item"
+msgstr "article"
+
+#: includes/passenger_list.php:829
+msgid "items"
+msgstr "articles"
+
+#: includes/extra_services.php:234 includes/extra_services.php:335
+#: includes/passenger_list-21-07-20.php:105 includes/class-csv-export.php:76
+#: includes/passenger_list.php:133 includes/passenger_list.php:204
+#: includes/passenger_list.php:601
+msgid "Journey Date"
+msgstr "Date du voyage"
+
+#: includes/wbtm_admin_ticket_purchase_new.php:95
+#: includes/wbtm_admin_ticket_purchase.php:413
+msgid "Journey date"
+msgstr "Date du voyage"
+
+#: includes/class-shortcode.php:132
+#: public/pdf/templates/pdf-templates/flat/template.php:423
+msgid "Journey Date:"
+msgstr "Date du voyage:"
+
+#: includes/class_wbbm_report.php:179
+msgid "Last Month"
+msgstr "Le mois dernier"
+
+#: includes/class_wbbm_report.php:814
+msgid "Last Month's"
+msgstr "Le mois dernier"
+
+#: includes/class_wbbm_report.php:185
+msgid "Last Week"
+msgstr "La semaine dernière"
+
+#: includes/class_wbbm_report.php:824
+msgid "Last Week's"
+msgstr "La semaine dernière"
+
+#: includes/class_wbbm_report.php:173
+msgid "Last Year"
+msgstr "L'année dernière"
+
+#: includes/class_wbbm_report.php:802
+msgid "Last Year's"
+msgstr "L'année dernière"
+
+#: includes/class-settings.php:36
+msgid "Logo "
+msgstr "Logo "
+
+#: includes/function.install_plugin.php:33
+msgid ""
+"Mage PDF Support Plugin is already installed in your website. Please Go to "
+"plugin list and active the plugin."
+msgstr ""
+"Le plugin Mage PDF Support est déjà installé sur votre site. Veuillez aller "
+"dans la liste des plugins et activer le plugin."
+
+#. Author of the plugin
+msgid "MagePeople Team"
+msgstr "SHID Team"
+
+#: includes/class-function.php:125 includes/class-function.php:224
+#: includes/class-function.php:327 includes/passenger_list.php:953
+msgid "Male"
+msgstr "Homme"
+
+#: includes/class-metabox.php:73
+msgid "Maximum Bag Allow"
+msgstr "Capacité maximale des sacs"
+
+#: includes/class-settings.php:23
+msgid "Merge Pdf Ticket"
+msgstr "Fusionner un ticket Pdf"
+
+#: includes/extra_services.php:68 includes/class-settings.php:229
+#: includes/class-metabox.php:28 includes/passenger_list-21-07-20.php:100
+#: includes/passenger_list.php:129 includes/passenger_list.php:476
+#: includes/passenger_list.php:936
+#: public/pdf/templates/pdf-templates/flat/template.php:364
+msgid "Name"
+msgstr "Nom"
+
+#: includes/class-shortcode.php:111
+msgid "Name:"
+msgstr "Nom:"
+
+#: includes/class-cpt.php:22
+msgid "New Passenger List"
+msgstr "Nouvelle liste de passagers"
+
+#: includes/class-settings.php:31 includes/class-settings.php:131
+msgid "No"
+msgstr "No"
+
+#: includes/class_wbbm_report.php:288
+msgid "No data found!"
+msgstr "Aucune donnée trouvée !"
+
+#: includes/wbtm_admin_ticket_purchase_new.php:105
+msgid "No stops found"
+msgstr "Aucun arrêt trouvé"
+
+#: includes/class-metabox.php:112
+msgid "Number"
+msgstr "Numéro"
+
+#: includes/class_wbbm_report.php:416
+msgid "Number of Order"
+msgstr "Nombre de commandes"
+
+#: includes/class-settings.php:149
+msgid "On Hold"
+msgstr "En attente"
+
+#: includes/passenger_list-21-07-20.php:108 includes/class-csv-export.php:54
+#: includes/class-csv-export.php:66 includes/class-csv-export.php:80
+#: includes/passenger_list.php:588
+msgid "Order"
+msgstr "Commandez"
+
+#: includes/extra_services.php:349 includes/passenger_list.php:239
+msgid "Order Id"
+msgstr "Id. de commande"
+
+#: includes/extra_services.php:230
+#: public/pdf/templates/pdf-templates/flat/template.php:526
+msgid "Order No"
+msgstr "Numéro de commande"
+
+#: includes/class_wbbm_report.php:451 includes/passenger_list.php:128
+msgid "Order no"
+msgstr "Numéro de commande"
+
+#: includes/class-csv-export.php:55 includes/class-csv-export.php:67
+#: includes/class-csv-export.php:81
+msgid "Order Status"
+msgstr "Statut de la commande"
+
+#: includes/class_wbbm_report.php:302
+msgid "Order wise Details Report"
+msgstr "Rapport sur les détails de la commande"
+
+#: includes/class_wbbm_report.php:126
+msgid "Order wise details Report"
+msgstr "Rapport sur les détails de la commande"
+
+#: includes/passenger_list.php:218
+msgid "Passenger Email"
+msgstr "Courriel du passager"
+
+#: includes/class-function.php:224
+msgid "Passenger info"
+msgstr "Infos passagers"
+
+#: includes/passenger_list.php:806
+msgid "Passenger info edit"
+msgstr "Informations sur les passagers"
+
+#: includes/class-function.php:50
+msgid "Passenger information details"
+msgstr "Informations sur les passagers"
+
+#: includes/class-cpt.php:14 includes/class-cpt.php:15
+#: includes/passenger_list-21-07-20.php:6 includes/passenger_list.php:19
+#: includes/passenger_list.php:19 includes/passenger_list.php:103
+msgid "Passenger List"
+msgstr "Liste des passagers"
+
+#: includes/class-cpt.php:30
+msgid "Passenger List Feature Image"
+msgstr "Image caractéristique de la liste des passagers"
+
+#: includes/class-cpt.php:18
+msgid "Passenger List Item:"
+msgstr "Liste des passagers :"
+
+#: includes/class-cpt.php:16 includes/class-cpt.php:17
+msgid "Passenger List List"
+msgstr "Liste des passagers :"
+
+#: includes/class-cpt.php:36
+msgid "Passenger List list"
+msgstr "Liste des passagers :"
+
+#: includes/class-cpt.php:37
+msgid "Passenger List list navigation"
+msgstr "Navigation dans la liste des passagers"
+
+#: includes/class-cpt.php:28
+msgid "Passenger List Not found"
+msgstr "Liste des passagers non trouvée"
+
+#: includes/class-cpt.php:29
+msgid "Passenger List Not found in Trash"
+msgstr "Liste des passagers non trouvée dans la poubelle"
+
+#: includes/passenger_list.php:211
+msgid "Passenger Name"
+msgstr "Nom du passager"
+
+#: includes/passenger_list.php:225
+msgid "Passenger Phone"
+msgstr "Téléphone du passager"
+
+#: public/pdf/templates/pdf-templates/flat/template.php:481
+msgid "Passenger Type:"
+msgstr "Type de passager :"
+
+#: includes/class-settings.php:238 includes/passenger_list.php:506
+msgid "Payment Method"
+msgstr "Mode de paiement"
+
+#: includes/class-settings.php:51
+msgid "PDF Background Color"
+msgstr "Couleur de fond du PDF"
+
+#: includes/class-settings.php:116
+msgid "PDF Email Settings"
+msgstr "Paramètres de l'e-mail PDF"
+
+#: includes/class-settings.php:16
+msgid "PDF General Settings"
+msgstr "Paramètres généraux du PDF"
+
+#: includes/class-settings.php:37
+msgid "PDF Logo"
+msgstr "PDF Logo"
+
+#: includes/class-settings.php:59
+msgid "PDF Text Color"
+msgstr "Couleur du texte du PDF"
+
+#: includes/class-settings.php:144
+msgid "Pending"
+msgstr "En attente"
+
+#: includes/class-function.php:131
+msgid "Per bag"
+msgstr "Par sac"
+
+#: includes/class-metabox.php:79
+msgid "Per Bag Price"
+msgstr "Prix par sac"
+
+#: includes/class-metabox.php:46 includes/class-metabox.php:48
+#: includes/passenger_list.php:479 includes/passenger_list.php:942
+msgid "Phone"
+msgstr "Téléphone"
+
+#: includes/class-settings.php:230
+msgid "Phone No"
+msgstr "Téléphone"
+
+#: includes/class-shortcode.php:113
+#: public/pdf/templates/pdf-templates/flat/template.php:369
+msgid "Phone:"
+msgstr "Téléphone:"
+
+#: includes/class-csv-export.php:79 includes/passenger_list.php:604
+msgid "Pickup Point"
+msgstr "Point d'embarquement"
+
+#: includes/wbtm_admin_ticket_purchase.php:827
+#: includes/wbtm_admin_ticket_purchase.php:946
+#: public/pdf/templates/pdf-templates/flat/template.php:464
+msgid "Pickup Point:"
+msgstr "Point d'embarquement;"
+
+#: public/pdf/templates/pdf-templates/flat/template.php:357
+msgid "PIN:"
+msgstr "PIN:"
+
+#: includes/class-shortcode.php:106
+msgid "PIN:::"
+msgstr "PIN:::"
+
+#: includes/class-metabox.php:132
+msgid ""
+"Please Enter values for Select/Checkbox & Radio Fields. Must be comma "
+"seperated. Ex: Male,Female"
+msgstr ""
+"Veuillez entrer les valeurs pour les champs Select/Checkbox et Radio. Elles "
+"doivent être séparées par des virgules. Ex : Homme, Femme"
+
+#: includes/class-function.php:110 includes/class-function.php:124
+#: includes/class-function.php:224 includes/class-function.php:327
+msgid "Please Select"
+msgstr "Veuillez choisir"
+
+#: includes/report.php:181
+msgid "Please select a bus!"
+msgstr "Veuillez choisir un bus !"
+
+#: includes/report.php:177
+msgid "Please, select a seat first"
+msgstr "Veuillez d'abord choisir un siège"
+
+#: includes/class-settings.php:236 includes/passenger_list.php:497
+msgid "Postcode"
+msgstr "Code postal"
+
+#: includes/wbtm_admin_ticket_purchase.php:774 includes/passenger_list.php:130
+#: includes/passenger_list.php:608
+msgid "Price"
+msgstr "Prix"
+
+#: includes/class-shortcode.php:152
+#: public/pdf/templates/pdf-templates/flat/template.php:488
+msgid "Price:"
+msgstr "Prix:"
+
+#. Description of the plugin
+msgid ""
+"Pro version of Woocommerce Bus Tickets Manager, A Complete Bus Ticketig "
+"System for WordPress & WooCommerce"
+msgstr ""
+"Version pro de Woocommerce Bus Tickets Manager, un système complet de "
+"billetterie pour les bus pour WordPress et WooCommerce."
+
+#: includes/class-settings.php:145
+msgid "Processing"
+msgstr "Traitement"
+
+#: includes/class-shortcode.php:153
+#: public/pdf/templates/pdf-templates/flat/template.php:493
+msgid "Purchase on:"
+msgstr "Achat sur :"
+
+#: includes/wbtm_admin_ticket_purchase(copy).php:13
+#: includes/wbtm_admin_ticket_purchase_new.php:14
+#: includes/wbtm_admin_ticket_purchase_new.php:14
+#: includes/wbtm_admin_ticket_purchase.php:14
+#: includes/wbtm_admin_ticket_purchase.php:14
+#: includes/wbtm_admin_ticket_purchase_old_plugin-05-02-2021.php:14
+#: includes/wbtm_admin_ticket_purchase_old_plugin-05-02-2021.php:14
+msgid "Purchase Ticket"
+msgstr "Acheter un billet"
+
+#: includes/extra_services.php:69 includes/class_wbbm_report.php:456
+msgid "Qty"
+msgstr "Qté"
+
+#: includes/wbtm_admin_ticket_purchase.php:773
+#: public/pdf/templates/pdf-templates/flat/template.php:531
+msgid "Quantity"
+msgstr "Quantité"
+
+#: includes/class_wbbm_report.php:122 includes/report.php:41
+msgid "Quick book status report"
+msgstr "Rapport sur l'état du livre rapide"
+
+#: includes/class-metabox.php:115
+msgid "Radio"
+msgstr "Radio"
+
+#: includes/class-settings.php:147
+msgid "Refunded"
+msgstr "Remboursé"
+
+#: includes/class-metabox.php:147
+msgid "Registration Form"
+msgstr "Formulaire d'inscription"
+
+#: includes/class-metabox.php:83
+msgid "Registration Form Builder"
+msgstr "Créateur de formulaire d'inscription"
+
+#: includes/class-cpt.php:32
+msgid "Remove Passenger List featured image"
+msgstr "Supprimer l'image vedette de la liste des passagers"
+
+#: includes/report.php:7
+msgid "Report"
+msgstr "Rapport"
+
+#: includes/class_wbbm_report.php:47
+msgid "Reports"
+msgstr "Rapports"
+
+#: includes/class-metabox.php:126
+msgid "Required"
+msgstr "Requis"
+
+#: includes/class_wbbm_report.php:189
+msgid "Reset all filter"
+msgstr "Réinitialiser tous les filtres"
+
+#: includes/passenger_list.php:156
+msgid "Restore"
+msgstr "Restaurer"
+
+#: includes/passenger_list.php:567
+msgid "Row Per Page"
+msgstr "Rangée par page"
+
+#: includes/wbtm_admin_ticket_purchase.php:429
+msgid "Schedule"
+msgstr "Calendrier"
+
+#: includes/class_wbbm_report.php:203
+#: includes/wbtm_admin_ticket_purchase_new.php:100
+#: includes/wbtm_admin_ticket_purchase.php:418
+msgid "Search"
+msgstr "Recherche"
+
+#: includes/class-cpt.php:27
+msgid "Search Passenger List"
+msgstr "Recherche dans la liste des passagers"
+
+#: includes/class-shortcode.php:21
+msgid "Search Ticket"
+msgstr "Recherche de billets"
+
+#: includes/class_wbbm_report.php:457 includes/passenger_list-21-07-20.php:103
+#: includes/class-csv-export.php:45 includes/class-csv-export.php:59
+#: includes/class-csv-export.php:73 includes/wbtm_admin_ticket_purchase.php:759
+#: includes/passenger_list.php:587
+msgid "Seat"
+msgstr "Siège"
+
+#: includes/wbtm_admin_ticket_purchase(copy).php:194
+#: includes/wbtm_admin_ticket_purchase.php:191
+#: includes/wbtm_admin_ticket_purchase.php:262
+#: includes/wbtm_admin_ticket_purchase.php:333
+#: includes/wbtm_admin_ticket_purchase_old_plugin-05-02-2021.php:222
+msgid "Seat Booked Successfully"
+msgstr "Siège réservé avec succès"
+
+#: includes/passenger_list-21-07-20.php:24 includes/passenger_list.php:60
+msgid "Seat Deleted"
+msgstr "Siège supprimé"
+
+#: includes/class_wbbm_report.php:458
+msgid "Seat Price"
+msgstr "Prix du siège"
+
+#: includes/passenger_list.php:76
+msgid "Seat restore successfully"
+msgstr "Restauration du siège réussie"
+
+#: includes/class-shortcode.php:142 includes/class-shortcode.php:147
+#: public/pdf/templates/pdf-templates/flat/template.php:471
+msgid "Seat:"
+msgstr "Siège :"
+
+#: includes/wbtm_admin_ticket_purchase.php:433
+msgid "Seats Available"
+msgstr "Sièges disponibles"
+
+#: includes/class-metabox.php:113
+msgid "Select"
+msgstr "Sélectionnez"
+
+#: includes/class_wbbm_report.php:537 includes/passenger_list-21-07-20.php:53
+msgid "Select Bus"
+msgstr "Sélectionner le bus"
+
+#: includes/wbtm_admin_ticket_purchase.php:373
+msgid "Select Bus type"
+msgstr "Sélectionnez le type de bus"
+
+#: includes/class-settings.php:216
+msgid ""
+"Select checkout fields name what you want to show in the passenger list "
+"using <span style=\"color:#ff9800\">\"comma-separated value.\"</span>"
+msgstr ""
+"Sélectionnez le nom des champs de contrôle que vous voulez afficher dans la "
+"liste des passagers en utilisant <span style=\"color:#ff9800\">\"valeur "
+"séparée par des virgules\". </span>"
+
+#: includes/class-settings.php:224
+msgid ""
+"Select checkout fields name what you want to show in the passenger list."
+msgstr ""
+"Sélectionnez le nom des champs de contrôle que vous voulez afficher dans la "
+"liste des passagers."
+
+#: includes/passenger_list.php:952
+msgid "Select Gender"
+msgstr "Sélectionnez le genre"
+
+#: includes/class-settings.php:45
+msgid "Select PDF Background Image"
+msgstr "Sélectionner l'image d'arrière-plan du PDF"
+
+#: includes/wbtm_admin_ticket_purchase.php:830
+#: includes/wbtm_admin_ticket_purchase.php:949
+msgid "Select Pickup Point"
+msgstr "Sélectionner le point de ramassage"
+
+#: includes/class_wbbm_report.php:113 includes/report.php:34
+msgid "Select Report"
+msgstr "Sélectionner le rapport"
+
+#: includes/class_wbbm_report.php:520
+msgid "Select Seller"
+msgstr "Sélectionnez le vendeur"
+
+#: includes/class_wbbm_report.php:238
+msgid "Sells Details Report"
+msgstr "Rapport sur les détails des ventes"
+
+#: includes/class_wbbm_report.php:118 includes/report.php:38
+msgid "Sells details Report"
+msgstr "Rapport sur les détails des ventes"
+
+#: includes/class-settings.php:138
+msgid "Send Email on"
+msgstr "Envoyer un courriel sur"
+
+#: includes/class-settings.php:139
+msgid ""
+"Send email with the ticket as attachment when these order status comes       "
+"                     "
+msgstr ""
+"Envoyer un email avec le ticket en pièce jointe lorsque le statut de la "
+"commande est atteint.                            "
+
+#: includes/class-settings.php:124
+msgid "Send pdf to email?"
+msgstr "Envoyer un pdf par e-mail ?"
+
+#: includes/class-settings.php:123
+msgid "Send Ticket"
+msgstr "Envoyer le billet"
+
+#: public/pdf/templates/pdf-templates/flat/template.php:530
+msgid "Service Name"
+msgstr "Nom du service"
+
+#: includes/class-cpt.php:31
+msgid "Set Passenger List featured image"
+msgstr "Définir l'image vedette de la liste des passagers"
+
+#: includes/passenger_list.php:533
+msgid "Show Removed List"
+msgstr "Afficher la liste des personnes supprimées"
+
+#: includes/class_wbbm_report.php:846
+msgid "Showing"
+msgstr "Affichage de"
+
+#: includes/passenger_list.php:127
+msgid "Sl"
+msgstr "Sl"
+
+#: includes/report.php:101
+msgid "Sold"
+msgstr "Vendu"
+
+#: includes/class_wbbm_report.php:424
+msgid "Sold Amount"
+msgstr "Montant vendu"
+
+#: includes/wbtm_admin_ticket_purchase.php:590
+msgid "Sorry! No Bus Found"
+msgstr "Désolé ! Aucun bus trouvé"
+
+#: includes/passenger_list-21-07-20.php:106
+msgid "Start"
+msgstr "Démarrage"
+
+#: includes/class-csv-export.php:48 includes/class-csv-export.php:62
+#: includes/passenger_list.php:594
+msgid "Start Date"
+msgstr "Date de départ"
+
+#: public/pdf/templates/pdf-templates/flat/template.php:416
+msgid "Start Date:"
+msgstr "Date de départ:"
+
+#: includes/wbtm_admin_ticket_purchase.php:750
+msgid "Start Time:"
+msgstr "Heure de début :"
+
+#: includes/class-settings.php:235 includes/passenger_list.php:494
+msgid "State"
+msgstr "État"
+
+#: includes/class_wbbm_report.php:461 includes/passenger_list-21-07-20.php:109
+#: includes/passenger_list.php:610
+msgid "Status"
+msgstr "Status"
+
+#: includes/wbtm_admin_ticket_purchase_new.php:66
+msgid "Subscription"
+msgstr "Abonnement"
+
+#: includes/wbtm_admin_ticket_purchase.php:775
+msgid "SubTotal"
+msgstr "Sous-total"
+
+#: includes/extra_services.php:55
+msgid "Sucessfully updated!"
+msgstr "Mis à jour avec succès !"
+
+#: includes/class-settings.php:105 includes/class-settings.php:106
+#: includes/class-settings.php:108
+msgid "Terms & Condition Text"
+msgstr "Texte des termes et conditions"
+
+#: includes/class-settings.php:97 includes/class-settings.php:101
+msgid "Terms & Condition Title"
+msgstr "Texte des termes et conditions"
+
+#: includes/class-metabox.php:111
+msgid "Text"
+msgstr "Texte"
+
+#: includes/class-metabox.php:116
+msgid "Textarea"
+msgstr "Zone de texte"
+
+#: includes/report.php:180
+msgid "This bus has no data!"
+msgstr "Ce bus n'a pas de données !"
+
+#: includes/class-settings.php:18 includes/class-settings.php:211
+msgid "This is section details"
+msgstr "Voici les détails de la section"
+
+#: includes/class_wbbm_report.php:182
+msgid "This Month"
+msgstr "Ce mois-ci"
+
+#: includes/class_wbbm_report.php:819
+msgid "This Month's"
+msgstr "Ce mois-ci"
+
+#: includes/class_wbbm_report.php:176
+msgid "This Year"
+msgstr "Cette année"
+
+#: includes/class_wbbm_report.php:807
+msgid "This Year's"
+msgstr "Cette année"
+
+#: public/pdf/templates/pdf-templates/flat/template.php:439
+msgid "Time"
+msgstr "Temps"
+
+#: includes/class-shortcode.php:133
+#: public/pdf/templates/pdf-templates/flat/template.php:426
+msgid "Time:"
+msgstr "Temps:"
+
+#: includes/class-csv-export.php:53 includes/class-csv-export.php:78
+#: includes/passenger_list.php:598 includes/passenger_list.php:603
+msgid "To"
+msgstr "A"
+
+#: includes/class_wbbm_report.php:597
+msgid "To Date"
+msgstr "À ce jour"
+
+#: includes/wbtm_admin_ticket_purchase.php:814
+#: public/pdf/templates/pdf-templates/flat/template.php:533
+msgid "Total"
+msgstr "Total"
+
+#: includes/extra_services.php:71 includes/class_wbbm_report.php:460
+msgid "Total Price"
+msgstr "Prix total"
+
+#: includes/class_wbbm_report.php:420
+msgid "Total Ticket"
+msgstr "Total des billets"
+
+#: includes/wbtm_admin_ticket_purchase.php:772 includes/report.php:116
+msgid "Type"
+msgstr "Type"
+
+#: includes/passenger_list.php:570
+msgid "Type the number and press enter"
+msgstr "Tapez le numéro et appuyez sur la touche Entrée"
+
+#: includes/class-metabox.php:102
+msgid ""
+"Unique ID (Required Field, If this field is empty no info will be saved)"
+msgstr ""
+"ID unique (champ obligatoire, si ce champ est vide, aucune information ne "
+"sera enregistrée)"
+
+#: includes/extra_services.php:70
+#: public/pdf/templates/pdf-templates/flat/template.php:532
+msgid "Unit Price"
+msgstr "Prix unitaire"
+
+#: includes/extra_services.php:92
+msgid "Update"
+msgstr "Mise à jour"
+
+#: includes/passenger_list.php:929 includes/passenger_list.php:964
+msgid "Update Passenger Info"
+msgstr "Mise à jour des informations sur les passagers"
+
+#: includes/class-cpt.php:24
+msgid "Update Passenger List"
+msgstr "Mise à jour de la liste des passagers"
+
+#: includes/class-cpt.php:35
+msgid "Uploaded to this Passenger List"
+msgstr "Téléchargé dans cette liste de passagers"
+
+#: includes/report.php:153
+msgid "Upper Deck"
+msgstr "Pont supérieur"
+
+#: includes/class-cpt.php:33
+msgid "Use as Passenger List featured image"
+msgstr "Utiliser comme image vedette de la liste des passagers"
+
+#: includes/class-csv-export.php:49 includes/class-csv-export.php:63
+msgid "Valid Till"
+msgstr "Valable jusqu'à"
+
+#: includes/passenger_list.php:517
+msgid "Valid till"
+msgstr "Valable jusqu'à"
+
+#: public/pdf/templates/pdf-templates/flat/template.php:419
+msgid "Valid Till:"
+msgstr "Valable jusqu'à:"
+
+#: includes/wbtm_admin_ticket_purchase.php:434
+msgid "View"
+msgstr "Voir"
+
+#: includes/class-cpt.php:25 includes/class-cpt.php:26
+msgid "View Passenger List"
+msgstr "Voir la liste des passagers"
+
+#: includes/wbtm_admin_ticket_purchase(copy).php:294
+msgid "View Seats"
+msgstr "Voir les sièges"
+
+#: includes/class-settings.php:30 includes/class-settings.php:130
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/class-shortcode.php:163
+msgid "You need to login your account to view the ticket."
+msgstr "Vous devez vous connecter à votre compte pour voir le ticket."
+
+#: includes/class-csv-export.php:51 includes/class-csv-export.php:65
+#: includes/passenger_list.php:519
+msgid "Zone"
+msgstr "Zone"
+
+#: public/pdf/templates/pdf-templates/flat/template.php:448
+msgid "Zone:"
+msgstr "Zone:"

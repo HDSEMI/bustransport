@@ -1,0 +1,5191 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Builderon | Construction Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.6",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo.bosathemes.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home-2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home-3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/home-3\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home-4",
+            "screenshot": "screenshots\/home-4.jpg",
+            "source": "templates\/home-4.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/home-4\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive",
+            "screenshot": "screenshots\/archive.jpg",
+            "source": "templates\/archive.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/?elementor_library=archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single page",
+            "screenshot": "screenshots\/single-page.jpg",
+            "source": "templates\/single-page.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/?elementor_library=single-page",
+            "type": "single-page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-page",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Page\" template for Elementor Pro.",
+                    "This template will display on: Pages."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Search Results",
+            "screenshot": "screenshots\/search-results.jpg",
+            "source": "templates\/search-results.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/?elementor_library=search-results",
+            "type": "search-results",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-search",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "search-results",
+                "elementor_pro_conditions": [
+                    "include\/archive\/search"
+                ],
+                "additional_template_information": [
+                    "This is a \"Search Results\" template for Elementor Pro.",
+                    "This template will display on: Search Results."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404 page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/?elementor_library=404-page",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Shop",
+            "screenshot": "screenshots\/shop.jpg",
+            "source": "templates\/shop.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/?elementor_library=shop-2",
+            "type": "product-archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product-archive",
+                "elementor_pro_conditions": [
+                    "include\/product_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product Archive\" template for Elementor Pro.",
+                    "This template will display on: All Product Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single product",
+            "screenshot": "screenshots\/single-product.jpg",
+            "source": "templates\/single-product.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/?elementor_library=single-product-2",
+            "type": "product",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product",
+                "elementor_pro_conditions": [
+                    "include\/product"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product\" template for Elementor Pro.",
+                    "This template will display on: Products."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services detail",
+            "screenshot": "screenshots\/services-detail.jpg",
+            "source": "templates\/services-detail.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/services-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Career",
+            "screenshot": "screenshots\/career.jpg",
+            "source": "templates\/career.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/career\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Career detail",
+            "screenshot": "screenshots\/career-detail.jpg",
+            "source": "templates\/career-detail.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/career-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team details",
+            "screenshot": "screenshots\/team-details.jpg",
+            "source": "templates\/team-details.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/team-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Project detail",
+            "screenshot": "screenshots\/project-detail.jpg",
+            "source": "templates\/project-detail.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/project-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Inquiry form",
+            "screenshot": "screenshots\/inquiry-form.jpg",
+            "source": "templates\/inquiry-form.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/inquiry-form\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Hero-banner-block-1",
+            "screenshot": "screenshots\/hero-banner-block-1.jpg",
+            "source": "templates\/hero-banner-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/hero-banner-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Hero-banner-block-2",
+            "screenshot": "screenshots\/hero-banner-block-2.jpg",
+            "source": "templates\/hero-banner-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/hero-banner-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About-block-1",
+            "screenshot": "screenshots\/about-block-1.jpg",
+            "source": "templates\/about-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/about-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About-block-2",
+            "screenshot": "screenshots\/about-block-2.jpg",
+            "source": "templates\/about-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/about-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About-block-3",
+            "screenshot": "screenshots\/about-block-3.jpg",
+            "source": "templates\/about-block-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/about-block-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About-block-4",
+            "screenshot": "screenshots\/about-block-4.jpg",
+            "source": "templates\/about-block-4.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/about-block-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About-block-5",
+            "screenshot": "screenshots\/about-block-5.jpg",
+            "source": "templates\/about-block-5.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/about-block-5\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About-block-6",
+            "screenshot": "screenshots\/about-block-6.jpg",
+            "source": "templates\/about-block-6.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/about-block-6\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About-block-7",
+            "screenshot": "screenshots\/about-block-7.jpg",
+            "source": "templates\/about-block-7.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/about-block-7\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About-block-8",
+            "screenshot": "screenshots\/about-block-8.jpg",
+            "source": "templates\/about-block-8.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/about-block-8\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service-block-1",
+            "screenshot": "screenshots\/service-block-1.jpg",
+            "source": "templates\/service-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/service-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service-block-2",
+            "screenshot": "screenshots\/service-block-2.jpg",
+            "source": "templates\/service-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/service-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service-block-3",
+            "screenshot": "screenshots\/service-block-3.jpg",
+            "source": "templates\/service-block-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/service-block-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service-block-4",
+            "screenshot": "screenshots\/service-block-4.jpg",
+            "source": "templates\/service-block-4.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/service-block-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service-block-5",
+            "screenshot": "screenshots\/service-block-5.jpg",
+            "source": "templates\/service-block-5.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/service-block-5\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service-block-6",
+            "screenshot": "screenshots\/service-block-6.jpg",
+            "source": "templates\/service-block-6.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/service-block-6\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service-block-7",
+            "screenshot": "screenshots\/service-block-7.jpg",
+            "source": "templates\/service-block-7.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/service-block-7\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service-block-8",
+            "screenshot": "screenshots\/service-block-8.jpg",
+            "source": "templates\/service-block-8.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/service-block-8\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Feature-block-1",
+            "screenshot": "screenshots\/feature-block-1.jpg",
+            "source": "templates\/feature-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/feature-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Feature-block-2",
+            "screenshot": "screenshots\/feature-block-2.jpg",
+            "source": "templates\/feature-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/feature-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Feature-block-3",
+            "screenshot": "screenshots\/feature-block-3.jpg",
+            "source": "templates\/feature-block-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/feature-block-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Feature-block-4",
+            "screenshot": "screenshots\/feature-block-4.jpg",
+            "source": "templates\/feature-block-4.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/feature-block-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case-block-1",
+            "screenshot": "screenshots\/case-block-1.jpg",
+            "source": "templates\/case-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/case-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case-block-2",
+            "screenshot": "screenshots\/case-block-2.jpg",
+            "source": "templates\/case-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/case-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio-block-1",
+            "screenshot": "screenshots\/portfolio-block-1.jpg",
+            "source": "templates\/portfolio-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/portfolio-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio-block-2",
+            "screenshot": "screenshots\/portfolio-block-2.jpg",
+            "source": "templates\/portfolio-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/portfolio-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio-block-3",
+            "screenshot": "screenshots\/portfolio-block-3.jpg",
+            "source": "templates\/portfolio-block-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/portfolio-block-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing-block-1",
+            "screenshot": "screenshots\/pricing-block-1.jpg",
+            "source": "templates\/pricing-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/pricing-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing-block-2",
+            "screenshot": "screenshots\/pricing-block-2.jpg",
+            "source": "templates\/pricing-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/pricing-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing-block-3",
+            "screenshot": "screenshots\/pricing-block-3.jpg",
+            "source": "templates\/pricing-block-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/pricing-block-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing-block-4",
+            "screenshot": "screenshots\/pricing-block-4.jpg",
+            "source": "templates\/pricing-block-4.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/pricing-block-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team-block-1",
+            "screenshot": "screenshots\/team-block-1.jpg",
+            "source": "templates\/team-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/team-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team-block-2",
+            "screenshot": "screenshots\/team-block-2.jpg",
+            "source": "templates\/team-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/team-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team-block-3",
+            "screenshot": "screenshots\/team-block-3.jpg",
+            "source": "templates\/team-block-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/team-block-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team-block-4",
+            "screenshot": "screenshots\/team-block-4.jpg",
+            "source": "templates\/team-block-4.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/team-block-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team-block-5",
+            "screenshot": "screenshots\/team-block-5.jpg",
+            "source": "templates\/team-block-5.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/team-block-5\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team-block-6",
+            "screenshot": "screenshots\/team-block-6.jpg",
+            "source": "templates\/team-block-6.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/team-block-6\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Process-block-1",
+            "screenshot": "screenshots\/process-block-1.jpg",
+            "source": "templates\/process-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/process-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Process-block-2",
+            "screenshot": "screenshots\/process-block-2.jpg",
+            "source": "templates\/process-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/process-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Process-block-3",
+            "screenshot": "screenshots\/process-block-3.jpg",
+            "source": "templates\/process-block-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/process-block-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Process-block-4",
+            "screenshot": "screenshots\/process-block-4.jpg",
+            "source": "templates\/process-block-4.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/process-block-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Process-block-5",
+            "screenshot": "screenshots\/process-block-5.jpg",
+            "source": "templates\/process-block-5.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/process-block-5\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Subscribe-block-1",
+            "screenshot": "screenshots\/subscribe-block-1.jpg",
+            "source": "templates\/subscribe-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/subscribe-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Subscribe-block-2",
+            "screenshot": "screenshots\/subscribe-block-2.jpg",
+            "source": "templates\/subscribe-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/subscribe-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Subscribe-block-3",
+            "screenshot": "screenshots\/subscribe-block-3.jpg",
+            "source": "templates\/subscribe-block-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/subscribe-block-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Subscribe-block-4",
+            "screenshot": "screenshots\/subscribe-block-4.jpg",
+            "source": "templates\/subscribe-block-4.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/subscribe-block-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Counter-block-1",
+            "screenshot": "screenshots\/counter-block-1.jpg",
+            "source": "templates\/counter-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/counter-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-stats",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Counter-block-2",
+            "screenshot": "screenshots\/counter-block-2.jpg",
+            "source": "templates\/counter-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/counter-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-stats",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Counter-block-3",
+            "screenshot": "screenshots\/counter-block-3.jpg",
+            "source": "templates\/counter-block-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/counter-block-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-stats",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Counter-block-4",
+            "screenshot": "screenshots\/counter-block-4.jpg",
+            "source": "templates\/counter-block-4.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/counter-block-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-stats",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Countdown-block-1",
+            "screenshot": "screenshots\/countdown-block-1.jpg",
+            "source": "templates\/countdown-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/countdown-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-countdown",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Callback-block-1",
+            "screenshot": "screenshots\/callback-block-1.jpg",
+            "source": "templates\/callback-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/callback-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Callback-block-2",
+            "screenshot": "screenshots\/callback-block-2.jpg",
+            "source": "templates\/callback-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/callback-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Callback-block-3",
+            "screenshot": "screenshots\/callback-block-3.jpg",
+            "source": "templates\/callback-block-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/callback-block-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Callback-block-4",
+            "screenshot": "screenshots\/callback-block-4.jpg",
+            "source": "templates\/callback-block-4.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/callback-block-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Callback-block-5",
+            "screenshot": "screenshots\/callback-block-5.jpg",
+            "source": "templates\/callback-block-5.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/callback-block-5\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Brand-block-1",
+            "screenshot": "screenshots\/brand-block-1.jpg",
+            "source": "templates\/brand-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/brand-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-clients",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Brand-block-2",
+            "screenshot": "screenshots\/brand-block-2.jpg",
+            "source": "templates\/brand-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/brand-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-clients",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Brand-block-3",
+            "screenshot": "screenshots\/brand-block-3.jpg",
+            "source": "templates\/brand-block-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/brand-block-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-clients",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Brand-block-4",
+            "screenshot": "screenshots\/brand-block-4.jpg",
+            "source": "templates\/brand-block-4.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/brand-block-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-clients",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial-block-1",
+            "screenshot": "screenshots\/testimonial-block-1.jpg",
+            "source": "templates\/testimonial-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/testimonial-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial-blocks-2",
+            "screenshot": "screenshots\/testimonial-blocks-2.jpg",
+            "source": "templates\/testimonial-blocks-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/testimonial-blocks-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial-block-3",
+            "screenshot": "screenshots\/testimonial-block-3.jpg",
+            "source": "templates\/testimonial-block-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/testimonial-block-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial-block-4",
+            "screenshot": "screenshots\/testimonial-block-4.jpg",
+            "source": "templates\/testimonial-block-4.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/testimonial-block-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial-block-5",
+            "screenshot": "screenshots\/testimonial-block-5.jpg",
+            "source": "templates\/testimonial-block-5.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/testimonial-block-5\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Accordion-block-1",
+            "screenshot": "screenshots\/accordion-block-1.jpg",
+            "source": "templates\/accordion-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/accordion-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Accordion-block-2",
+            "screenshot": "screenshots\/accordion-block-2.jpg",
+            "source": "templates\/accordion-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/accordion-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Accordion-block-3",
+            "screenshot": "screenshots\/accordion-block-3.jpg",
+            "source": "templates\/accordion-block-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/accordion-block-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Accordion-block-4",
+            "screenshot": "screenshots\/accordion-block-4.jpg",
+            "source": "templates\/accordion-block-4.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/accordion-block-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact-block-1",
+            "screenshot": "screenshots\/contact-block-1.jpg",
+            "source": "templates\/contact-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/contact-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact-block-2",
+            "screenshot": "screenshots\/contact-block-2.jpg",
+            "source": "templates\/contact-block-2.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/contact-block-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact-block-3",
+            "screenshot": "screenshots\/contact-block-3.jpg",
+            "source": "templates\/contact-block-3.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/contact-block-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact-block-4",
+            "screenshot": "screenshots\/contact-block-4.jpg",
+            "source": "templates\/contact-block-4.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/contact-block-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact-block-5",
+            "screenshot": "screenshots\/contact-block-5.jpg",
+            "source": "templates\/contact-block-5.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/contact-block-5\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact-block-6",
+            "screenshot": "screenshots\/contact-block-6.jpg",
+            "source": "templates\/contact-block-6.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/contact-block-6\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact-block-7",
+            "screenshot": "screenshots\/contact-block-7.jpg",
+            "source": "templates\/contact-block-7.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/contact-block-7\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Get-quote-block-1",
+            "screenshot": "screenshots\/get-quote-block-1.jpg",
+            "source": "templates\/get-quote-block-1.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/template-kit\/get-quote-block-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Form popup",
+            "screenshot": "screenshots\/form-popup.jpg",
+            "source": "templates\/form-popup.json",
+            "preview_url": "https:\/\/demo.bosathemes.com\/builderon\/?elementor_library=form-popup",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "WooCommerce",
+            "version": "5.8.0",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        }
+    ],
+    "images": [
+        {
+            "filename": "builderon-img32.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img32-800x140.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/subscribe-block-4.json",
+                    "name": "Subscribe-block-4"
+                }
+            ],
+            "filesize": 61147,
+            "dimensions": [
+                1200,
+                210
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-area-Y4N8C2H"
+        },
+        {
+            "filename": "builderon-img31.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img31.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/case-block-1.json",
+                    "name": "Case-block-1"
+                },
+                {
+                    "source": "templates\/team-block-1.json",
+                    "name": "Team-block-1"
+                },
+                {
+                    "source": "templates\/counter-block-1.json",
+                    "name": "Counter-block-1"
+                },
+                {
+                    "source": "templates\/callback-block-5.json",
+                    "name": "Callback-block-5"
+                },
+                {
+                    "source": "templates\/brand-block-4.json",
+                    "name": "Brand-block-4"
+                },
+                {
+                    "source": "templates\/testimonial-block-5.json",
+                    "name": "Testimonial-block-5"
+                },
+                {
+                    "source": "templates\/contact-block-2.json",
+                    "name": "Contact-block-2"
+                },
+                {
+                    "source": "templates\/form-popup.json",
+                    "name": "Form popup"
+                }
+            ],
+            "filesize": 84296,
+            "dimensions": [
+                781,
+                581
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img35.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img35.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/portfolio-block-3.json",
+                    "name": "Portfolio-block-3"
+                }
+            ],
+            "filesize": 79246,
+            "dimensions": [
+                400,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-confident-builders-with-clipboard-standin-NS3ABSV"
+        },
+        {
+            "filename": "builderon-img34.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img34.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project detail"
+                },
+                {
+                    "source": "templates\/service-block-1.json",
+                    "name": "Service-block-1"
+                },
+                {
+                    "source": "templates\/portfolio-block-1.json",
+                    "name": "Portfolio-block-1"
+                },
+                {
+                    "source": "templates\/portfolio-block-2.json",
+                    "name": "Portfolio-block-2"
+                },
+                {
+                    "source": "templates\/portfolio-block-3.json",
+                    "name": "Portfolio-block-3"
+                },
+                {
+                    "source": "templates\/process-block-2.json",
+                    "name": "Process-block-2"
+                },
+                {
+                    "source": "templates\/counter-block-2.json",
+                    "name": "Counter-block-2"
+                }
+            ],
+            "filesize": 54218,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-industry-concept-GF2P8S6"
+        },
+        {
+            "filename": "builderon-img30.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img30.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services detail"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project detail"
+                },
+                {
+                    "source": "templates\/case-block-1.json",
+                    "name": "Case-block-1"
+                },
+                {
+                    "source": "templates\/portfolio-block-1.json",
+                    "name": "Portfolio-block-1"
+                },
+                {
+                    "source": "templates\/portfolio-block-2.json",
+                    "name": "Portfolio-block-2"
+                },
+                {
+                    "source": "templates\/portfolio-block-3.json",
+                    "name": "Portfolio-block-3"
+                }
+            ],
+            "filesize": 56032,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-worker-job-PRZELAM"
+        },
+        {
+            "filename": "builderon-img29.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img29.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services detail"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project detail"
+                },
+                {
+                    "source": "templates\/service-block-1.json",
+                    "name": "Service-block-1"
+                },
+                {
+                    "source": "templates\/case-block-1.json",
+                    "name": "Case-block-1"
+                },
+                {
+                    "source": "templates\/portfolio-block-1.json",
+                    "name": "Portfolio-block-1"
+                },
+                {
+                    "source": "templates\/portfolio-block-2.json",
+                    "name": "Portfolio-block-2"
+                },
+                {
+                    "source": "templates\/portfolio-block-3.json",
+                    "name": "Portfolio-block-3"
+                },
+                {
+                    "source": "templates\/process-block-2.json",
+                    "name": "Process-block-2"
+                },
+                {
+                    "source": "templates\/counter-block-2.json",
+                    "name": "Counter-block-2"
+                }
+            ],
+            "filesize": 49171,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-welding-PE4VM5P"
+        },
+        {
+            "filename": "builderon-img28.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img28.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/portfolio-block-1.json",
+                    "name": "Portfolio-block-1"
+                },
+                {
+                    "source": "templates\/portfolio-block-2.json",
+                    "name": "Portfolio-block-2"
+                },
+                {
+                    "source": "templates\/portfolio-block-3.json",
+                    "name": "Portfolio-block-3"
+                }
+            ],
+            "filesize": 51593,
+            "dimensions": [
+                400,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-site-4CGM49X"
+        },
+        {
+            "filename": "builderon-img27.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img27.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services detail"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/service-block-1.json",
+                    "name": "Service-block-1"
+                },
+                {
+                    "source": "templates\/case-block-1.json",
+                    "name": "Case-block-1"
+                },
+                {
+                    "source": "templates\/portfolio-block-1.json",
+                    "name": "Portfolio-block-1"
+                },
+                {
+                    "source": "templates\/portfolio-block-2.json",
+                    "name": "Portfolio-block-2"
+                },
+                {
+                    "source": "templates\/portfolio-block-3.json",
+                    "name": "Portfolio-block-3"
+                },
+                {
+                    "source": "templates\/process-block-2.json",
+                    "name": "Process-block-2"
+                },
+                {
+                    "source": "templates\/counter-block-2.json",
+                    "name": "Counter-block-2"
+                }
+            ],
+            "filesize": 63861,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/three-workers-examining-building-plans-and-talking-VLKV7YU"
+        },
+        {
+            "filename": "builderon-img1.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img1-800x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 248496,
+            "dimensions": [
+                1400,
+                765
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hydraulic-crusher-and-track-type-excavator-backhoe-GP5L994"
+        },
+        {
+            "filename": "builderon-img2.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img2-800x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/service-block-4.json",
+                    "name": "Service-block-4"
+                },
+                {
+                    "source": "templates\/counter-block-4.json",
+                    "name": "Counter-block-4"
+                },
+                {
+                    "source": "templates\/testimonial-block-5.json",
+                    "name": "Testimonial-block-5"
+                },
+                {
+                    "source": "templates\/accordion-block-3.json",
+                    "name": "Accordion-block-3"
+                }
+            ],
+            "filesize": 206510,
+            "dimensions": [
+                1400,
+                765
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/parked-drum-roller-N32NC7H"
+        },
+        {
+            "filename": "builderon-img3.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img3-800x125.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-block-8.json",
+                    "name": "Service-block-8"
+                }
+            ],
+            "filesize": 38335,
+            "dimensions": [
+                1920,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img9.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img9-800x55.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service-block-8.json",
+                    "name": "Service-block-8"
+                }
+            ],
+            "filesize": 48629,
+            "dimensions": [
+                1920,
+                133
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img4.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img4-800x356.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service-block-8.json",
+                    "name": "Service-block-8"
+                }
+            ],
+            "filesize": 21988,
+            "dimensions": [
+                1350,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img5.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/service-block-7.json",
+                    "name": "Service-block-7"
+                },
+                {
+                    "source": "templates\/service-block-8.json",
+                    "name": "Service-block-8"
+                }
+            ],
+            "filesize": 1809,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-glyph-WPUB24B"
+        },
+        {
+            "filename": "builderon-img6.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/service-block-7.json",
+                    "name": "Service-block-7"
+                },
+                {
+                    "source": "templates\/service-block-8.json",
+                    "name": "Service-block-8"
+                }
+            ],
+            "filesize": 1943,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-glyph-WPUB24B"
+        },
+        {
+            "filename": "builderon-img7.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/service-block-7.json",
+                    "name": "Service-block-7"
+                },
+                {
+                    "source": "templates\/service-block-8.json",
+                    "name": "Service-block-8"
+                }
+            ],
+            "filesize": 1987,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-glyph-WPUB24B"
+        },
+        {
+            "filename": "builderon-img8.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img8.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service-block-7.json",
+                    "name": "Service-block-7"
+                },
+                {
+                    "source": "templates\/service-block-8.json",
+                    "name": "Service-block-8"
+                }
+            ],
+            "filesize": 1813,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-glyph-WPUB24B"
+        },
+        {
+            "filename": "builderon-img04.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 166861,
+            "dimensions": [
+                385,
+                352
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-smiling-builder-standing-at-construction--ATAGN44"
+        },
+        {
+            "filename": "builderon-img01.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-page.json",
+                    "name": "Single page"
+                },
+                {
+                    "source": "templates\/search-results.json",
+                    "name": "Search Results"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services detail"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team details"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/inquiry-form.json",
+                    "name": "Inquiry form"
+                }
+            ],
+            "filesize": 122875,
+            "dimensions": [
+                400,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/front-end-loader-KCTFZQ"
+        },
+        {
+            "filename": "builderon-img11.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img11.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/brand-block-2.json",
+                    "name": "Brand-block-2"
+                }
+            ],
+            "filesize": 5773,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img12.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img12.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/brand-block-2.json",
+                    "name": "Brand-block-2"
+                }
+            ],
+            "filesize": 5196,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img13.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img13.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4589,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img14.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img14.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/brand-block-2.json",
+                    "name": "Brand-block-2"
+                }
+            ],
+            "filesize": 3524,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img15.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img15.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4398,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img19.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img19.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career detail"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team details"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project detail"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-block-5.json",
+                    "name": "About-block-5"
+                },
+                {
+                    "source": "templates\/about-block-6.json",
+                    "name": "About-block-6"
+                },
+                {
+                    "source": "templates\/about-block-7.json",
+                    "name": "About-block-7"
+                },
+                {
+                    "source": "templates\/service-block-4.json",
+                    "name": "Service-block-4"
+                },
+                {
+                    "source": "templates\/service-block-5.json",
+                    "name": "Service-block-5"
+                },
+                {
+                    "source": "templates\/service-block-6.json",
+                    "name": "Service-block-6"
+                },
+                {
+                    "source": "templates\/feature-block-3.json",
+                    "name": "Feature-block-3"
+                },
+                {
+                    "source": "templates\/pricing-block-4.json",
+                    "name": "Pricing-block-4"
+                },
+                {
+                    "source": "templates\/brand-block-2.json",
+                    "name": "Brand-block-2"
+                },
+                {
+                    "source": "templates\/accordion-block-3.json",
+                    "name": "Accordion-block-3"
+                },
+                {
+                    "source": "templates\/contact-block-4.json",
+                    "name": "Contact-block-4"
+                },
+                {
+                    "source": "templates\/contact-block-6.json",
+                    "name": "Contact-block-6"
+                }
+            ],
+            "filesize": 42840,
+            "dimensions": [
+                781,
+                581
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img17.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img17.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-block-5.json",
+                    "name": "About-block-5"
+                }
+            ],
+            "filesize": 52664,
+            "dimensions": [
+                456,
+                307
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/worker-melting-iron-RHMUA76"
+        },
+        {
+            "filename": "builderon-img18.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img18.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/about-block-4.json",
+                    "name": "About-block-4"
+                },
+                {
+                    "source": "templates\/about-block-5.json",
+                    "name": "About-block-5"
+                },
+                {
+                    "source": "templates\/about-block-6.json",
+                    "name": "About-block-6"
+                },
+                {
+                    "source": "templates\/about-block-8.json",
+                    "name": "About-block-8"
+                },
+                {
+                    "source": "templates\/callback-block-3.json",
+                    "name": "Callback-block-3"
+                }
+            ],
+            "filesize": 67508,
+            "dimensions": [
+                515,
+                630
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/master-at-furnace-with-liquid-metal-steel-factory-FKELJYD"
+        },
+        {
+            "filename": "builderon-img20.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img20-800x110.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/callback-block-4.json",
+                    "name": "Callback-block-4"
+                }
+            ],
+            "filesize": 40613,
+            "dimensions": [
+                1920,
+                265
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img33.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img33-800x514.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-page.json",
+                    "name": "Single page"
+                },
+                {
+                    "source": "templates\/search-results.json",
+                    "name": "Search Results"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services detail"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team details"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/inquiry-form.json",
+                    "name": "Inquiry form"
+                },
+                {
+                    "source": "templates\/hero-banner-block-2.json",
+                    "name": "Hero-banner-block-2"
+                },
+                {
+                    "source": "templates\/about-block-1.json",
+                    "name": "About-block-1"
+                },
+                {
+                    "source": "templates\/service-block-3.json",
+                    "name": "Service-block-3"
+                },
+                {
+                    "source": "templates\/case-block-2.json",
+                    "name": "Case-block-2"
+                },
+                {
+                    "source": "templates\/subscribe-block-2.json",
+                    "name": "Subscribe-block-2"
+                },
+                {
+                    "source": "templates\/callback-block-2.json",
+                    "name": "Callback-block-2"
+                },
+                {
+                    "source": "templates\/callback-block-3.json",
+                    "name": "Callback-block-3"
+                },
+                {
+                    "source": "templates\/callback-block-4.json",
+                    "name": "Callback-block-4"
+                },
+                {
+                    "source": "templates\/callback-block-5.json",
+                    "name": "Callback-block-5"
+                },
+                {
+                    "source": "templates\/brand-block-3.json",
+                    "name": "Brand-block-3"
+                },
+                {
+                    "source": "templates\/testimonial-block-1.json",
+                    "name": "Testimonial-block-1"
+                },
+                {
+                    "source": "templates\/testimonial-block-4.json",
+                    "name": "Testimonial-block-4"
+                }
+            ],
+            "filesize": 120226,
+            "dimensions": [
+                1400,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/steel-factory-metallurgical-or-metalworking-mill-Q6N4FS2"
+        },
+        {
+            "filename": "builderon-img24.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img24.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/callback-block-4.json",
+                    "name": "Callback-block-4"
+                }
+            ],
+            "filesize": 9712,
+            "dimensions": [
+                470,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img22.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img22.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/callback-block-4.json",
+                    "name": "Callback-block-4"
+                }
+            ],
+            "filesize": 2419,
+            "dimensions": [
+                182,
+                183
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img23.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img23.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/feature-block-2.json",
+                    "name": "Feature-block-2"
+                },
+                {
+                    "source": "templates\/subscribe-block-2.json",
+                    "name": "Subscribe-block-2"
+                },
+                {
+                    "source": "templates\/callback-block-4.json",
+                    "name": "Callback-block-4"
+                },
+                {
+                    "source": "templates\/form-popup.json",
+                    "name": "Form popup"
+                }
+            ],
+            "filesize": 145139,
+            "dimensions": [
+                600,
+                916
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-architect-on-construction-site-FF24WRX"
+        },
+        {
+            "filename": "builderon-img21.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img21-800x110.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/callback-block-4.json",
+                    "name": "Callback-block-4"
+                }
+            ],
+            "filesize": 40127,
+            "dimensions": [
+                1920,
+                265
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img26.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img26.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services detail"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/portfolio-block-3.json",
+                    "name": "Portfolio-block-3"
+                },
+                {
+                    "source": "templates\/process-block-5.json",
+                    "name": "Process-block-5"
+                }
+            ],
+            "filesize": 2517,
+            "dimensions": [
+                216,
+                507
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img25.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img25.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services detail"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team details"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/about-block-6.json",
+                    "name": "About-block-6"
+                },
+                {
+                    "source": "templates\/portfolio-block-3.json",
+                    "name": "Portfolio-block-3"
+                },
+                {
+                    "source": "templates\/pricing-block-4.json",
+                    "name": "Pricing-block-4"
+                },
+                {
+                    "source": "templates\/process-block-5.json",
+                    "name": "Process-block-5"
+                }
+            ],
+            "filesize": 2507,
+            "dimensions": [
+                216,
+                507
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img02.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services detail"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project detail"
+                },
+                {
+                    "source": "templates\/testimonial-block-3.json",
+                    "name": "Testimonial-block-3"
+                }
+            ],
+            "filesize": 179896,
+            "dimensions": [
+                500,
+                785
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/caucasian-contractor-with-tool-belt-holds-yellow-h-J84SYKF"
+        },
+        {
+            "filename": "builderon-img38.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img38.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial-blocks-2.json",
+                    "name": "Testimonial-blocks-2"
+                },
+                {
+                    "source": "templates\/testimonial-block-3.json",
+                    "name": "Testimonial-block-3"
+                }
+            ],
+            "filesize": 37240,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sketching-new-models-2BTE64C"
+        },
+        {
+            "filename": "builderon-img36.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img36.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial-block-3.json",
+                    "name": "Testimonial-block-3"
+                }
+            ],
+            "filesize": 33679,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-young-female-model-PTC44GA"
+        },
+        {
+            "filename": "builderon-img37.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img37.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial-block-3.json",
+                    "name": "Testimonial-block-3"
+                }
+            ],
+            "filesize": 35157,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-male-model-in-fashionable-clothes-is-outdoor-HEQYEQP"
+        },
+        {
+            "filename": "builderon-img39.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img39.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/about-block-6.json",
+                    "name": "About-block-6"
+                },
+                {
+                    "source": "templates\/testimonial-block-3.json",
+                    "name": "Testimonial-block-3"
+                }
+            ],
+            "filesize": 69777,
+            "dimensions": [
+                595,
+                666
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mechanic-cuts-steel-car-part-with-an-angle-grinder-RCZ65FS"
+        },
+        {
+            "filename": "builderon-img41.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img41-800x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming soon"
+                },
+                {
+                    "source": "templates\/hero-banner-block-1.json",
+                    "name": "Hero-banner-block-1"
+                },
+                {
+                    "source": "templates\/service-block-4.json",
+                    "name": "Service-block-4"
+                }
+            ],
+            "filesize": 299081,
+            "dimensions": [
+                1400,
+                765
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-site-4CGM49X"
+        },
+        {
+            "filename": "builderon-img055.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img055-800x313.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/feature-block-3.json",
+                    "name": "Feature-block-3"
+                },
+                {
+                    "source": "templates\/team-block-4.json",
+                    "name": "Team-block-4"
+                },
+                {
+                    "source": "templates\/subscribe-block-1.json",
+                    "name": "Subscribe-block-1"
+                },
+                {
+                    "source": "templates\/counter-block-4.json",
+                    "name": "Counter-block-4"
+                },
+                {
+                    "source": "templates\/testimonial-blocks-2.json",
+                    "name": "Testimonial-blocks-2"
+                },
+                {
+                    "source": "templates\/accordion-block-1.json",
+                    "name": "Accordion-block-1"
+                },
+                {
+                    "source": "templates\/contact-block-1.json",
+                    "name": "Contact-block-1"
+                }
+            ],
+            "filesize": 6440,
+            "dimensions": [
+                1920,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/square-dotted-world-map-and-earth-globes-Q676QDA"
+        },
+        {
+            "filename": "builderon-img43.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img43-800x343.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/accordion-block-2.json",
+                    "name": "Accordion-block-2"
+                },
+                {
+                    "source": "templates\/accordion-block-4.json",
+                    "name": "Accordion-block-4"
+                },
+                {
+                    "source": "templates\/get-quote-block-1.json",
+                    "name": "Get-quote-block-1"
+                }
+            ],
+            "filesize": 95900,
+            "dimensions": [
+                1400,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/worker-melting-iron-RHMUA76"
+        },
+        {
+            "filename": "builderon-img44.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img44.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/accordion-block-4.json",
+                    "name": "Accordion-block-4"
+                }
+            ],
+            "filesize": 21939,
+            "dimensions": [
+                300,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-engineer-with-foreman-worker-checking-7EYK63C"
+        },
+        {
+            "filename": "builderon-img02.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-img02-800x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/about-block-3.json",
+                    "name": "About-block-3"
+                },
+                {
+                    "source": "templates\/service-block-4.json",
+                    "name": "Service-block-4"
+                },
+                {
+                    "source": "templates\/feature-block-4.json",
+                    "name": "Feature-block-4"
+                },
+                {
+                    "source": "templates\/callback-block-1.json",
+                    "name": "Callback-block-1"
+                }
+            ],
+            "filesize": 194911,
+            "dimensions": [
+                1400,
+                765
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/master-at-furnace-with-liquid-metal-steel-factory-FKELJYD"
+        },
+        {
+            "filename": "builderon-img01.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-img01-800x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/service-block-4.json",
+                    "name": "Service-block-4"
+                }
+            ],
+            "filesize": 205818,
+            "dimensions": [
+                1400,
+                765
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-engineer-with-foreman-worker-checking-7NZM3PH"
+        },
+        {
+            "filename": "builderon-img15-1.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img15-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-block-4.json",
+                    "name": "About-block-4"
+                },
+                {
+                    "source": "templates\/brand-block-1.json",
+                    "name": "Brand-block-1"
+                },
+                {
+                    "source": "templates\/brand-block-2.json",
+                    "name": "Brand-block-2"
+                },
+                {
+                    "source": "templates\/brand-block-4.json",
+                    "name": "Brand-block-4"
+                }
+            ],
+            "filesize": 4398,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img14-1.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img14-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-block-4.json",
+                    "name": "About-block-4"
+                },
+                {
+                    "source": "templates\/brand-block-4.json",
+                    "name": "Brand-block-4"
+                }
+            ],
+            "filesize": 3524,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img13-1.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img13-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-block-4.json",
+                    "name": "About-block-4"
+                },
+                {
+                    "source": "templates\/brand-block-1.json",
+                    "name": "Brand-block-1"
+                },
+                {
+                    "source": "templates\/brand-block-2.json",
+                    "name": "Brand-block-2"
+                },
+                {
+                    "source": "templates\/brand-block-4.json",
+                    "name": "Brand-block-4"
+                }
+            ],
+            "filesize": 4589,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img12-1.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img12-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-block-4.json",
+                    "name": "About-block-4"
+                },
+                {
+                    "source": "templates\/brand-block-4.json",
+                    "name": "Brand-block-4"
+                }
+            ],
+            "filesize": 5196,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img11-1.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img11-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-block-4.json",
+                    "name": "About-block-4"
+                },
+                {
+                    "source": "templates\/brand-block-1.json",
+                    "name": "Brand-block-1"
+                },
+                {
+                    "source": "templates\/brand-block-4.json",
+                    "name": "Brand-block-4"
+                }
+            ],
+            "filesize": 5773,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-mg59.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-mg59.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-block-7.json",
+                    "name": "About-block-7"
+                },
+                {
+                    "source": "templates\/about-block-8.json",
+                    "name": "About-block-8"
+                },
+                {
+                    "source": "templates\/counter-block-1.json",
+                    "name": "Counter-block-1"
+                },
+                {
+                    "source": "templates\/contact-block-4.json",
+                    "name": "Contact-block-4"
+                }
+            ],
+            "filesize": 88120,
+            "dimensions": [
+                540,
+                710
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-worker-in-protective-uniform-discussi-QNBHCT2"
+        },
+        {
+            "filename": "builderon-img70.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img70.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/about-block-1.json",
+                    "name": "About-block-1"
+                },
+                {
+                    "source": "templates\/about-block-2.json",
+                    "name": "About-block-2"
+                },
+                {
+                    "source": "templates\/about-block-7.json",
+                    "name": "About-block-7"
+                },
+                {
+                    "source": "templates\/testimonial-block-1.json",
+                    "name": "Testimonial-block-1"
+                },
+                {
+                    "source": "templates\/testimonial-blocks-2.json",
+                    "name": "Testimonial-blocks-2"
+                },
+                {
+                    "source": "templates\/testimonial-block-5.json",
+                    "name": "Testimonial-block-5"
+                }
+            ],
+            "filesize": 6113,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/master-at-furnace-with-liquid-metal-steel-factory-FKELJYD"
+        },
+        {
+            "filename": "builderon-img0.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-img0.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/about-block-2.json",
+                    "name": "About-block-2"
+                },
+                {
+                    "source": "templates\/about-block-7.json",
+                    "name": "About-block-7"
+                },
+                {
+                    "source": "templates\/about-block-8.json",
+                    "name": "About-block-8"
+                }
+            ],
+            "filesize": 4424,
+            "dimensions": [
+                138,
+                64
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img05.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-img05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/service-block-6.json",
+                    "name": "Service-block-6"
+                },
+                {
+                    "source": "templates\/case-block-2.json",
+                    "name": "Case-block-2"
+                }
+            ],
+            "filesize": 40903,
+            "dimensions": [
+                400,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-worker-job-PRZELAM"
+        },
+        {
+            "filename": "builderon-img03.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-img03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/about-block-2.json",
+                    "name": "About-block-2"
+                },
+                {
+                    "source": "templates\/service-block-6.json",
+                    "name": "Service-block-6"
+                },
+                {
+                    "source": "templates\/case-block-2.json",
+                    "name": "Case-block-2"
+                }
+            ],
+            "filesize": 50288,
+            "dimensions": [
+                400,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/three-workers-examining-building-plans-and-talking-VLKV7YU"
+        },
+        {
+            "filename": "builderon-img04.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-img04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/about-block-2.json",
+                    "name": "About-block-2"
+                },
+                {
+                    "source": "templates\/service-block-6.json",
+                    "name": "Service-block-6"
+                },
+                {
+                    "source": "templates\/case-block-2.json",
+                    "name": "Case-block-2"
+                }
+            ],
+            "filesize": 39024,
+            "dimensions": [
+                400,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-welding-PE4VM5P"
+        },
+        {
+            "filename": "builderon-img07.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-img07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/team-block-1.json",
+                    "name": "Team-block-1"
+                },
+                {
+                    "source": "templates\/team-block-2.json",
+                    "name": "Team-block-2"
+                },
+                {
+                    "source": "templates\/team-block-5.json",
+                    "name": "Team-block-5"
+                },
+                {
+                    "source": "templates\/team-block-6.json",
+                    "name": "Team-block-6"
+                }
+            ],
+            "filesize": 48837,
+            "dimensions": [
+                360,
+                395
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-smiling-builder-standing-at-construction--ATAGN44"
+        },
+        {
+            "filename": "builderon-img08.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-img08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/team-block-1.json",
+                    "name": "Team-block-1"
+                },
+                {
+                    "source": "templates\/team-block-2.json",
+                    "name": "Team-block-2"
+                },
+                {
+                    "source": "templates\/team-block-5.json",
+                    "name": "Team-block-5"
+                },
+                {
+                    "source": "templates\/team-block-6.json",
+                    "name": "Team-block-6"
+                }
+            ],
+            "filesize": 40002,
+            "dimensions": [
+                360,
+                395
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/factory-worker-smiling-5RNE46J"
+        },
+        {
+            "filename": "builderon-img06.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-img06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/team-block-1.json",
+                    "name": "Team-block-1"
+                },
+                {
+                    "source": "templates\/team-block-5.json",
+                    "name": "Team-block-5"
+                },
+                {
+                    "source": "templates\/team-block-6.json",
+                    "name": "Team-block-6"
+                }
+            ],
+            "filesize": 30083,
+            "dimensions": [
+                360,
+                395
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-architect-on-construction-site-FF24WRX"
+        },
+        {
+            "filename": "builderon-img69.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img69.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/testimonial-block-1.json",
+                    "name": "Testimonial-block-1"
+                },
+                {
+                    "source": "templates\/testimonial-blocks-2.json",
+                    "name": "Testimonial-blocks-2"
+                },
+                {
+                    "source": "templates\/testimonial-block-4.json",
+                    "name": "Testimonial-block-4"
+                },
+                {
+                    "source": "templates\/testimonial-block-5.json",
+                    "name": "Testimonial-block-5"
+                }
+            ],
+            "filesize": 5636,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sketching-new-models-2BTE64C"
+        },
+        {
+            "filename": "builderon-img68.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img68.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/testimonial-block-1.json",
+                    "name": "Testimonial-block-1"
+                },
+                {
+                    "source": "templates\/testimonial-blocks-2.json",
+                    "name": "Testimonial-blocks-2"
+                },
+                {
+                    "source": "templates\/testimonial-block-4.json",
+                    "name": "Testimonial-block-4"
+                },
+                {
+                    "source": "templates\/testimonial-block-5.json",
+                    "name": "Testimonial-block-5"
+                }
+            ],
+            "filesize": 5498,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-young-female-model-PTC44GA"
+        },
+        {
+            "filename": "bosatheme-pattern-bg.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/bosatheme-pattern-bg-800x557.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/service-block-1.json",
+                    "name": "Service-block-1"
+                }
+            ],
+            "filesize": 18536,
+            "dimensions": [
+                1800,
+                1253
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img50.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img50.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-block-2.json",
+                    "name": "About-block-2"
+                },
+                {
+                    "source": "templates\/about-block-8.json",
+                    "name": "About-block-8"
+                },
+                {
+                    "source": "templates\/service-block-5.json",
+                    "name": "Service-block-5"
+                },
+                {
+                    "source": "templates\/contact-block-5.json",
+                    "name": "Contact-block-5"
+                }
+            ],
+            "filesize": 22744,
+            "dimensions": [
+                449,
+                603
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-team08.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-team08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/team-block-1.json",
+                    "name": "Team-block-1"
+                },
+                {
+                    "source": "templates\/team-block-5.json",
+                    "name": "Team-block-5"
+                }
+            ],
+            "filesize": 24255,
+            "dimensions": [
+                360,
+                395
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/master-at-furnace-with-liquid-metal-steel-factory-FKELJYD"
+        },
+        {
+            "filename": "builderon-img71.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/10\/builderon-img71.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/hero-banner-block-2.json",
+                    "name": "Hero-banner-block-2"
+                }
+            ],
+            "filesize": 169143,
+            "dimensions": [
+                432,
+                336
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bulldozer-P6DV7KA"
+        },
+        {
+            "filename": "builderon-img65.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img65.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single post"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/about-block-8.json",
+                    "name": "About-block-8"
+                },
+                {
+                    "source": "templates\/testimonial-block-4.json",
+                    "name": "Testimonial-block-4"
+                }
+            ],
+            "filesize": 5470,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/factory-worker-smiling-5RNE46J"
+        },
+        {
+            "filename": "builderon-circle1.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-circle1-800x642.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/feature-block-2.json",
+                    "name": "Feature-block-2"
+                }
+            ],
+            "filesize": 14954,
+            "dimensions": [
+                946,
+                759
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-circle2.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-circle2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/feature-block-2.json",
+                    "name": "Feature-block-2"
+                }
+            ],
+            "filesize": 3409,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img70.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/10\/builderon-img70.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/testimonial-block-4.json",
+                    "name": "Testimonial-block-4"
+                }
+            ],
+            "filesize": 1965,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img66.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img66.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home-4"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/testimonial-block-4.json",
+                    "name": "Testimonial-block-4"
+                }
+            ],
+            "filesize": 5804,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-male-model-in-fashionable-clothes-is-outdoor-HEQYEQP"
+        },
+        {
+            "filename": "builderon-img49.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img49-800x110.png",
+            "templates": [
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-page.json",
+                    "name": "Single page"
+                },
+                {
+                    "source": "templates\/search-results.json",
+                    "name": "Search Results"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services detail"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team details"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project detail"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/inquiry-form.json",
+                    "name": "Inquiry form"
+                }
+            ],
+            "filesize": 76098,
+            "dimensions": [
+                1920,
+                265
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-product08.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-product08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 25533,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/circular-saw-JHEH48"
+        },
+        {
+            "filename": "builderon-product07.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-product07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 25364,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/gasoline-vibratory-plate-compactor-dirty-MU7W29G"
+        },
+        {
+            "filename": "builderon-product06.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-product06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 27062,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/mitre-saw-ZV6EDS"
+        },
+        {
+            "filename": "builderon-product05.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-product05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 23213,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/light-tower-Y8UL5UD"
+        },
+        {
+            "filename": "builderon-product04.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-product04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 23272,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/wheel-barrow-BK6RG9G"
+        },
+        {
+            "filename": "builderon-product03.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-product03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single product"
+                }
+            ],
+            "filesize": 29443,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/toolbox-AE9U3Z"
+        },
+        {
+            "filename": "builderon-img46.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img46.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/process-block-4.json",
+                    "name": "Process-block-4"
+                }
+            ],
+            "filesize": 50510,
+            "dimensions": [
+                360,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/high-angle-view-of-group-of-builders-discussing-bu-9VAB83R"
+        },
+        {
+            "filename": "builderon-img48.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img48.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/process-block-4.json",
+                    "name": "Process-block-4"
+                }
+            ],
+            "filesize": 50062,
+            "dimensions": [
+                360,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/three-workers-examining-building-plans-and-talking-VLKV7YU"
+        },
+        {
+            "filename": "builderon-img47.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img47.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/process-block-4.json",
+                    "name": "Process-block-4"
+                }
+            ],
+            "filesize": 61659,
+            "dimensions": [
+                360,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-worker-M9E6H8J"
+        },
+        {
+            "filename": "builderon-img51.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img51.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services detail"
+                }
+            ],
+            "filesize": 104996,
+            "dimensions": [
+                695,
+                395
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/residential-construction-site-MQ5RB2Y"
+        },
+        {
+            "filename": "builderon-img53.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img53.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career detail"
+                }
+            ],
+            "filesize": 78328,
+            "dimensions": [
+                715,
+                475
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/master-with-notebook-and-welder-on-factory-TCT9YQ6"
+        },
+        {
+            "filename": "builderon-img52.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img52-800x427.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career detail"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/subscribe-block-3.json",
+                    "name": "Subscribe-block-3"
+                }
+            ],
+            "filesize": 108031,
+            "dimensions": [
+                1500,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-architect-on-construction-site-FF24WRX"
+        },
+        {
+            "filename": "builderon-img76.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img76.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/team-block-4.json",
+                    "name": "Team-block-4"
+                }
+            ],
+            "filesize": 3474,
+            "dimensions": [
+                430,
+                460
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-img56.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img56.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/team-block-4.json",
+                    "name": "Team-block-4"
+                }
+            ],
+            "filesize": 36185,
+            "dimensions": [
+                260,
+                355
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-smiling-builder-standing-at-construction--ATAGN44"
+        },
+        {
+            "filename": "builderon-mg57.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-mg57.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/team-block-4.json",
+                    "name": "Team-block-4"
+                }
+            ],
+            "filesize": 30687,
+            "dimensions": [
+                260,
+                355
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/factory-worker-smiling-5RNE46J"
+        },
+        {
+            "filename": "builderon-img54.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img54.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/team-block-4.json",
+                    "name": "Team-block-4"
+                }
+            ],
+            "filesize": 24208,
+            "dimensions": [
+                260,
+                355
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-architect-on-construction-site-FF24WRX"
+        },
+        {
+            "filename": "builderon-img55.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img55.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/team-block-4.json",
+                    "name": "Team-block-4"
+                }
+            ],
+            "filesize": 30379,
+            "dimensions": [
+                260,
+                355
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/master-at-furnace-with-liquid-metal-steel-factory-FKELJYD"
+        },
+        {
+            "filename": "builderon-mg58.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-mg58.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team details"
+                }
+            ],
+            "filesize": 70642,
+            "dimensions": [
+                460,
+                505
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-smiling-builder-standing-at-construction--ATAGN44"
+        },
+        {
+            "filename": "builderon-mg62.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-mg62.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/pricing-block-4.json",
+                    "name": "Pricing-block-4"
+                }
+            ],
+            "filesize": 4412,
+            "dimensions": [
+                95,
+                95
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-glyph-WPUB24B"
+        },
+        {
+            "filename": "builderon-mg63.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-mg63.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/service-block-7.json",
+                    "name": "Service-block-7"
+                },
+                {
+                    "source": "templates\/pricing-block-4.json",
+                    "name": "Pricing-block-4"
+                }
+            ],
+            "filesize": 3180,
+            "dimensions": [
+                95,
+                95
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-glyph-WPUB24B"
+        },
+        {
+            "filename": "builderon-mg61.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-mg61.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/pricing-block-4.json",
+                    "name": "Pricing-block-4"
+                }
+            ],
+            "filesize": 3571,
+            "dimensions": [
+                95,
+                95
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-glyph-WPUB24B"
+        },
+        {
+            "filename": "builderon-mg64.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-mg64.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project detail"
+                }
+            ],
+            "filesize": 98385,
+            "dimensions": [
+                695,
+                395
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-site-4CGM49X"
+        },
+        {
+            "filename": "builderon-img67.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img67.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 5148,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-architect-on-construction-site-FF24WRX"
+        },
+        {
+            "filename": "builderon-mg60.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-mg60.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 120864,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-confident-builders-with-clipboard-standin-NS3ABSV"
+        },
+        {
+            "filename": "builderon-about-1.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-about-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-block-1.json",
+                    "name": "About-block-1"
+                },
+                {
+                    "source": "templates\/about-block-2.json",
+                    "name": "About-block-2"
+                }
+            ],
+            "filesize": 84451,
+            "dimensions": [
+                570,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-worker-in-protective-uniform-discussi-QNBHCT2"
+        },
+        {
+            "filename": "builderon-service-shape.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-service-shape.png",
+            "templates": [
+                {
+                    "source": "templates\/service-block-2.json",
+                    "name": "Service-block-2"
+                }
+            ],
+            "filesize": 2928,
+            "dimensions": [
+                310,
+                310
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-service1.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-service1.png",
+            "templates": [
+                {
+                    "source": "templates\/service-block-2.json",
+                    "name": "Service-block-2"
+                }
+            ],
+            "filesize": 53183,
+            "dimensions": [
+                310,
+                310
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-welding-PE4VM5P"
+        },
+        {
+            "filename": "builderon-service2.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-service2.png",
+            "templates": [
+                {
+                    "source": "templates\/service-block-2.json",
+                    "name": "Service-block-2"
+                }
+            ],
+            "filesize": 51673,
+            "dimensions": [
+                310,
+                310
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/three-workers-examining-building-plans-and-talking-VLKV7YU"
+        },
+        {
+            "filename": "builderon-service3.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-service3.png",
+            "templates": [
+                {
+                    "source": "templates\/service-block-2.json",
+                    "name": "Service-block-2"
+                }
+            ],
+            "filesize": 52256,
+            "dimensions": [
+                310,
+                310
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-industry-concept-GF2P8S6"
+        },
+        {
+            "filename": "builderon-service4.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-service4.png",
+            "templates": [
+                {
+                    "source": "templates\/service-block-2.json",
+                    "name": "Service-block-2"
+                }
+            ],
+            "filesize": 54338,
+            "dimensions": [
+                310,
+                310
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/construction-worker-job-PRZELAM"
+        },
+        {
+            "filename": "builderon-team1.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-team1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-block-3.json",
+                    "name": "Team-block-3"
+                }
+            ],
+            "filesize": 22587,
+            "dimensions": [
+                260,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/factory-worker-smiling-5RNE46J"
+        },
+        {
+            "filename": "builderon-team4.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-team4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-block-3.json",
+                    "name": "Team-block-3"
+                }
+            ],
+            "filesize": 17520,
+            "dimensions": [
+                260,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-architect-on-construction-site-FF24WRX"
+        },
+        {
+            "filename": "builderon-team3.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-team3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-block-3.json",
+                    "name": "Team-block-3"
+                }
+            ],
+            "filesize": 26016,
+            "dimensions": [
+                260,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/master-at-furnace-with-liquid-metal-steel-factory-FKELJYD"
+        },
+        {
+            "filename": "builderon-team2.jpg",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-team2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-block-3.json",
+                    "name": "Team-block-3"
+                }
+            ],
+            "filesize": 25383,
+            "dimensions": [
+                260,
+                260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-smiling-builder-standing-at-construction--ATAGN44"
+        },
+        {
+            "filename": "buideron-arrow.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/buideron-arrow-800x141.png",
+            "templates": [
+                {
+                    "source": "templates\/process-block-2.json",
+                    "name": "Process-block-2"
+                }
+            ],
+            "filesize": 6129,
+            "dimensions": [
+                1490,
+                263
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "buideron-arrow2.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/buideron-arrow2-800x70.png",
+            "templates": [
+                {
+                    "source": "templates\/process-block-3.json",
+                    "name": "Process-block-3"
+                }
+            ],
+            "filesize": 11691,
+            "dimensions": [
+                1563,
+                136
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-subscribe-shape.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-subscribe-shape-800x267.png",
+            "templates": [
+                {
+                    "source": "templates\/subscribe-block-2.json",
+                    "name": "Subscribe-block-2"
+                }
+            ],
+            "filesize": 3957,
+            "dimensions": [
+                1200,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-logo5.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-logo5.png",
+            "templates": [
+                {
+                    "source": "templates\/brand-block-3.json",
+                    "name": "Brand-block-3"
+                }
+            ],
+            "filesize": 4166,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-logo4.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-logo4.png",
+            "templates": [
+                {
+                    "source": "templates\/brand-block-3.json",
+                    "name": "Brand-block-3"
+                }
+            ],
+            "filesize": 5520,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-logo3.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-logo3.png",
+            "templates": [
+                {
+                    "source": "templates\/brand-block-3.json",
+                    "name": "Brand-block-3"
+                }
+            ],
+            "filesize": 4965,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-logo2.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-logo2.png",
+            "templates": [
+                {
+                    "source": "templates\/brand-block-3.json",
+                    "name": "Brand-block-3"
+                }
+            ],
+            "filesize": 4461,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "builderon-logo1.png",
+            "thumbnail_url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/07\/builderon-logo1.png",
+            "templates": [
+                {
+                    "source": "templates\/brand-block-3.json",
+                    "name": "Brand-block-3"
+                }
+            ],
+            "filesize": 3393,
+            "dimensions": [
+                138,
+                111
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

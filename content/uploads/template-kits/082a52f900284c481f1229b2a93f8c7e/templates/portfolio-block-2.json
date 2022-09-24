@@ -1,0 +1,229 @@
+{
+    "version": "0.4",
+    "title": "Portfolio-block-2",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-portfolio",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "7cbc8adf",
+            "settings": {
+                "gap": "no",
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "15",
+                    "bottom": "100",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "_title": "Portfolio-blocks-2"
+            },
+            "elements": [
+                {
+                    "id": "6894e086",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "6f091601",
+                            "settings": {
+                                "title": "Our recent projects",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2f5b68bb",
+                            "settings": {
+                                "editor": "<p>Quisquam odio incididunt at placerat, ducimus architecto urna architecto rhoncus. Amet, velit! Pulvinar. Justo deserunt, occaecat? Scelerisque dignissim, tenetur eligendi.<\/p>",
+                                "align": "center",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "200",
+                                    "bottom": "0",
+                                    "left": "200",
+                                    "isLinked": false
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7b2a52e8",
+                            "settings": {
+                                "slides": [
+                                    {
+                                        "image": {
+                                            "id": 313,
+                                            "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img34.jpg",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "fe2ff37",
+                                        "image_link_to_type": "custom",
+                                        "image_link_to": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "image": {
+                                            "id": 312,
+                                            "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img30.jpg",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "image_link_to_type": "custom",
+                                        "image_link_to": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "c3d7a33"
+                                    },
+                                    {
+                                        "image": {
+                                            "id": 311,
+                                            "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img29.jpg",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "image_link_to_type": "custom",
+                                        "image_link_to": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "0760d64"
+                                    },
+                                    {
+                                        "image": {
+                                            "id": 310,
+                                            "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img28.jpg",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "image_link_to_type": "custom",
+                                        "image_link_to": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "75e5316"
+                                    },
+                                    {
+                                        "image": {
+                                            "id": 309,
+                                            "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img27.jpg",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "image_link_to_type": "custom",
+                                        "image_link_to": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "c6b26d6"
+                                    }
+                                ],
+                                "slides_per_view": "4",
+                                "thumbs_ratio": "11",
+                                "height": {
+                                    "unit": "px",
+                                    "size": 350,
+                                    "sizes": []
+                                },
+                                "show_arrows": "",
+                                "overlay": "text",
+                                "caption": "caption",
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "pagination_size": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                },
+                                "pagination_color": "#FD5D14",
+                                "play_icon_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "overlay_background_color": "#030F27AD",
+                                "caption_typography_typography": "custom",
+                                "caption_typography_font_family": "Montserrat",
+                                "caption_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "caption_typography_font_weight": "700",
+                                "caption_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.3,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "pagination_color": "globals\/colors?id=primary",
+                                    "caption_typography_typography": "globals\/typography?id=852f6b3",
+                                    "overlay_background_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "media-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_canvas"
+    }
+}

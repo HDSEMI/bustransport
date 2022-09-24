@@ -1,0 +1,221 @@
+{
+    "version": "0.4",
+    "title": "Testimonial-blocks-2",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-testimonial",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "6ed42bbd",
+            "settings": {
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "id": 543,
+                    "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img055.png",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.03,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "_title": "Testimonial-block-2",
+                "gap": "no",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "15",
+                    "bottom": "100",
+                    "left": "15",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5f849c0b",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "space_between_widgets": 0
+                    },
+                    "elements": [
+                        {
+                            "id": "283b1a1f",
+                            "settings": {
+                                "title": "What Our Customers Are Saying",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "eff160e",
+                            "settings": {
+                                "style": "zigzag",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 75,
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "look": "line_text",
+                                "text": "Testimonial",
+                                "html_tag": "h6",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 2.5,
+                                    "sizes": []
+                                },
+                                "pattern_height": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "pattern_size": {
+                                    "unit": "px",
+                                    "size": 18.2,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "color": "globals\/colors?id=primary",
+                                    "text_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4a6fb983",
+                            "settings": {
+                                "slides": [
+                                    {
+                                        "content": "Eaque volutpat tenetur aliquip mollitia! Wisi? Parturient deserunt proin hac, animi. Alias sodales totam incididunt, imperdiet faucibus urna, sociosqu? Lacus pariatur laudantium ornare? Temporibus faucibus rutrum faucibus senectus tempor placeat.",
+                                        "name": "John Doe",
+                                        "title": "Employee",
+                                        "image": {
+                                            "id": 422,
+                                            "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img70.jpg",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "2923430"
+                                    },
+                                    {
+                                        "content": "Eaque volutpat tenetur aliquip mollitia! Wisi? Parturient deserunt proin hac, animi. Alias sodales totam incididunt, imperdiet faucibus urna, sociosqu? Lacus pariatur laudantium ornare? Temporibus faucibus rutrum faucibus senectus tempor placeat.",
+                                        "name": "William Scott",
+                                        "title": "Client",
+                                        "image": {
+                                            "id": 421,
+                                            "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img69.jpg",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "04c04e1"
+                                    },
+                                    {
+                                        "content": "Eaque volutpat tenetur aliquip mollitia! Wisi? Parturient deserunt proin hac, animi. Alias sodales totam incididunt, imperdiet faucibus urna, sociosqu? Lacus pariatur laudantium ornare? Temporibus faucibus rutrum faucibus senectus tempor placeat.",
+                                        "name": "Alison White",
+                                        "title": "Customer",
+                                        "image": {
+                                            "id": 420,
+                                            "url": "https:\/\/demo.bosathemes.com\/builderon\/wp-content\/uploads\/sites\/4\/2021\/06\/builderon-img68.jpg",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "7c46e8a"
+                                    }
+                                ],
+                                "layout": "image_above",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "show_arrows": "",
+                                "content_gap": {
+                                    "unit": "px",
+                                    "size": 36,
+                                    "sizes": []
+                                },
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "pagination_size": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "content_color": "globals\/colors?id=text",
+                                    "content_typography_typography": "globals\/typography?id=text",
+                                    "name_color": "globals\/colors?id=secondary",
+                                    "name_typography_typography": "globals\/typography?id=852f6b3",
+                                    "title_color": "globals\/colors?id=text",
+                                    "title_typography_typography": "globals\/typography?id=text",
+                                    "pagination_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_canvas"
+    }
+}
